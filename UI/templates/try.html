@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroSolution Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='try.css') }}">
+</head>
+<body style="background: url('./static/image8.png') no-repeat center center; background-size: cover; margin: 0; font-family: Arial, sans-serif;"></body>
+<div class = "header">
+    <div class="app-name-container">
+       <span class="web-app-name">
+           <span class="green-text">Agro</span><span class="white-text">Solution</span>
+       </span>
+    </div>
+ </div>
+<div class="container">
+        <div class="card c1">
+            <img src="{{ url_for('static', filename='image11.png') }}"  alt="Crop Recommendation">
+            <h3>Crop Recommendation</h3>
+            <p>Get personalized crop suggestions based on soil type and location.</p>
+            <button onclick="location.href='/run_streamlit_crop';">Explore</button>
+        </div>
+        <div class="card c2">
+            <img src="{{ url_for('static', filename='image9.png') }}"  alt="Fertilizer Recommendation">
+            <h3>Fertilizer Recommendation</h3>
+            <p>Find the right fertilizers to enhance crop growth effectively.</p>
+            <button onclick="location.href='/run_streamlit_ferti';">Explore</button>
+        </div>
+        <div class="card c3">
+            <img src="{{ url_for('static', filename='image10.png') }}"  alt="Crop Recommendation">
+            <h3>Pesticide Recommendation</h3>
+            <p>Choose the best pesticides and learn their application methods.</p>
+            <button onclick="location.href='/run_streamlit_pesticide';">Explore</button>
+        </div>
+    </div>
+</body>
+</html>
