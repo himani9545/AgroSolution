@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroSolution Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='try.css') }}">
+</head>
+<body style="background: url('{{ url_for('static', filename='images/image8.png') }}') no-repeat center center; background-size: cover; margin: 0; font-family: Arial, sans-serif;">
+
+    <!-- Header -->
+    <div class="header">
+        <div class="app-name-container">
+            <span class="web-app-name">
+                <span class="green-text">Agro</span><span class="white-text">Solution</span>
+            </span>
+        </div>
+
+    </div>
+
+    <!-- Recommendation Cards -->
+    <div class="container">
+        <div class="card c1">
+            <img src="{{ url_for('static', filename='images/image11.png') }}" alt="Crop Recommendation">
+            <h3 id="cropRecTitle">Crop Recommendation</h3>
+            <p id="cropRecDesc">Get personalized crop suggestions based on soil type and location.</p>
+            <button id="cropRecBtn" onclick="location.href='/run_streamlit_crop';">Explore</button>
+        </div>
+        <div class="card c2">
+            <img src="{{ url_for('static', filename='images/image10.png') }}" alt="Fertilizer Recommendation">
+            <h3 id="fertilizerRecTitle">Fertilizer Recommendation</h3>
+            <p id="fertilizerRecDesc">Find the right fertilizers to enhance crop growth effectively.</p>
+            <button id="fertilizerRecBtn" onclick="location.href='/run_streamlit_ferti';">Explore</button>
+        </div>
+        <div class="card c3">
+            <img src="{{ url_for('static', filename='images/image9.png') }}" alt="Pesticide Recommendation">
+            <h3 id="pesticideRecTitle">Pesticide Recommendation</h3>
+            <p id="pesticideRecDesc">Choose the best pesticides and learn their application methods.</p>
+            <button id="pesticideRecBtn" onclick="location.href='/run_streamlit_pesticide';">Explore</button>
+        </div>
+    </div>
+<!-- Back Button -->
+<div class="back-button-container">
+    <button id="backBtn" onclick="location.href='/';">Back</button>
+</div>
+    <!-- JavaScript File -->
+    <script src="{{ url_for('static', filename='js/language.js') }}"></script>
+
+</body>
+</html>

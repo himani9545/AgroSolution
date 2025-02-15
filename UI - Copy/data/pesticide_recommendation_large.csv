@@ -1,0 +1,3800 @@
+Crop,Pest,Pesticide,Application Method,Dosage
+Barley,Stem Borer,Chlorpyrifos,Spray,1.0 g/L
+Barley,Potato Beetle,Chlorpyrifos,Soil Application,3.0 g/L
+Barley,Soybean Looper,Imidacloprid,Spray,1.0 ml/L
+Barley,Potato Beetle,Pyrethrin,Spray,3.0 g/L
+Barley,Armyworm,Pyrethrin,Soil Drench,0.3 ml/L
+Barley,Potato Beetle,Cartap Hydrochloride,Soil Application,1.0 g/L
+Barley,Whitefly,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Barley,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,2.0 ml/L
+Barley,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Soil Application,0.8 ml/L
+Barley,Barley Yellow Dwarf Virus,Fipronil,Soil Drench,2.0 ml/L
+Barley,Whitefly,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Barley,Potato Beetle,Fipronil,Soil Drench,1.0 g/L
+Barley,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Spray,0.3 ml/L
+Barley,Whitefly,Chlorpyrifos,Spray,0.8 ml/L
+Barley,Potato Beetle,Pyrethrin,Soil Drench,1.5 ml/L
+Barley,Armyworm,Cartap Hydrochloride,Soil Application,0.8 ml/L
+Barley,Armyworm,Lambda-cyhalothrin,Soil Application,0.3 ml/L
+Barley,Stem Borer,Chlorpyrifos,Soil Application,1.5 ml/L
+Barley,Stem Borer,Lambda-cyhalothrin,Spray,2.0 ml/L
+Barley,Potato Beetle,Cartap Hydrochloride,Soil Application,1.0 g/L
+Barley,Peanut Bud Necrosis Virus,Spinosad,Spray,3.0 g/L
+Barley,Peanut Bud Necrosis Virus,Pyrethrin,Soil Drench,1.0 ml/L
+Barley,Stem Borer,Lambda-cyhalothrin,Soil Application,1.0 ml/L
+Barley,Stem Borer,Imidacloprid,Soil Application,2.5 ml/L
+Barley,Peanut Bud Necrosis Virus,Spinosad,Spray,3.0 g/L
+Barley,Potato Beetle,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Barley,Stem Borer,Imidacloprid,Soil Application,0.8 ml/L
+Barley,Stem Borer,Imidacloprid,Soil Application,0.8 ml/L
+Barley,Whitefly,Chlorpyrifos,Spray,0.8 ml/L
+Barley,Potato Beetle,Cartap Hydrochloride,Soil Application,1.0 g/L
+Barley,Peanut Bud Necrosis Virus,Pyrethrin,Soil Application,0.3 ml/L
+Barley,Peanut Bud Necrosis Virus,Spinosad,Spray,2.0 ml/L
+Barley,Peanut Bud Necrosis Virus,Cartap Hydrochloride,Spray,2.5 ml/L
+Barley,Bollworm,Pyrethrin,Soil Application,1.5 g/L
+Barley,Potato Beetle,Fipronil,Soil Drench,1.0 g/L
+Barley,Potato Beetle,Pyrethrin,Soil Drench,1.5 ml/L
+Barley,Bollworm,Imidacloprid,Soil Drench,2.5 ml/L
+Barley,Stem Borer,Imidacloprid,Spray,1.0 ml/L
+Barley,Potato Beetle,Thiamethoxam,Spray,1.0 g/L
+Barley,Barley Yellow Dwarf Virus,Imidacloprid,Soil Drench,1.5 ml/L
+Barley,Stem Borer,Thiamethoxam,Soil Drench,2.0 ml/L
+Barley,Soybean Looper,Lambda-cyhalothrin,Spray,2.0 ml/L
+Barley,Stem Borer,Imidacloprid,Soil Application,0.8 ml/L
+Barley,Bollworm,Pyrethrin,Soil Application,1.5 g/L
+Barley,Armyworm,Imidacloprid,Soil Drench,2.0 ml/L
+Barley,Barley Yellow Dwarf Virus,Chlorpyrifos,Soil Drench,3.0 g/L
+Barley,Soybean Looper,Lambda-cyhalothrin,Soil Application,1.0 ml/L
+Barley,Potato Beetle,Pyrethrin,Spray,3.0 g/L
+Barley,Armyworm,Pyrethrin,Soil Drench,0.3 ml/L
+Barley,Barley Yellow Dwarf Virus,Fipronil,Soil Drench,2.0 ml/L
+Barley,Stem Borer,Imidacloprid,Soil Application,0.8 ml/L
+Barley,Peanut Bud Necrosis Virus,Cartap Hydrochloride,Spray,1.0 ml/L
+Barley,Stem Borer,Azadirachtin (Neem Oil),Soil Application,1.5 g/L
+Barley,Armyworm,Pyrethrin,Soil Drench,0.3 ml/L
+Barley,Armyworm,Imidacloprid,Soil Application,2.5 ml/L
+Barley,Stem Borer,Lambda-cyhalothrin,Spray,2.0 ml/L
+Barley,Barley Yellow Dwarf Virus,Pyrethrin,Soil Application,2.0 ml/L
+Barley,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Spray,0.3 ml/L
+Barley,Sugarcane Borer,Spinosad,Soil Application,1.5 g/L
+Barley,Barley Yellow Dwarf Virus,Pyrethrin,Soil Application,2.0 ml/L
+Barley,Stem Borer,Thiamethoxam,Soil Application,2.5 ml/L
+Barley,Bollworm,Bacillus thuringiensis,Soil Application,2.5 ml/L
+Barley,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Barley,Soybean Looper,Cartap Hydrochloride,Spray,2.5 ml/L
+Barley,Barley Yellow Dwarf Virus,Fipronil,Soil Drench,2.0 ml/L
+Barley,Soybean Looper,Thiamethoxam,Soil Drench,1.5 ml/L
+Barley,Soybean Looper,Thiamethoxam,Soil Drench,1.5 ml/L
+Barley,Whitefly,Spinosad,Soil Application,1.0 g/L
+Barley,Potato Beetle,Bacillus thuringiensis,Soil Drench,0.3 ml/L
+Barley,Stem Borer,Bacillus thuringiensis,Spray,1.5 ml/L
+Barley,Potato Beetle,Thiamethoxam,Spray,1.0 g/L
+Barley,Stem Borer,Chlorpyrifos,Soil Application,1.5 ml/L
+Barley,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,2.0 ml/L
+Barley,Sugarcane Borer,Lambda-cyhalothrin,Soil Drench,3.0 g/L
+Barley,Stem Borer,Chlorpyrifos,Soil Drench,2.0 ml/L
+Barley,Peanut Bud Necrosis Virus,Spinosad,Spray,2.0 ml/L
+Barley,Soybean Looper,Imidacloprid,Spray,3.0 g/L
+Barley,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,2.0 ml/L
+Barley,Bollworm,Fipronil,Spray,2.0 ml/L
+Barley,Potato Beetle,Pyrethrin,Spray,3.0 g/L
+Barley,Whitefly,Chlorpyrifos,Spray,0.8 ml/L
+Barley,Potato Beetle,Lambda-cyhalothrin,Soil Drench,1.0 ml/L
+Barley,Barley Yellow Dwarf Virus,Spinosad,Spray,2.0 ml/L
+Barley,Soybean Looper,Imidacloprid,Spray,3.0 g/L
+Barley,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Spray,0.3 ml/L
+Barley,Stem Borer,Azadirachtin (Neem Oil),Soil Drench,0.3 ml/L
+Barley,Peanut Bud Necrosis Virus,Thiamethoxam,Soil Drench,2.0 ml/L
+Barley,Bollworm,Bacillus thuringiensis,Soil Application,2.5 ml/L
+Barley,Soybean Looper,Thiamethoxam,Soil Application,1.5 g/L
+Barley,Stem Borer,Azadirachtin (Neem Oil),Soil Application,1.5 g/L
+Barley,Stem Borer,Thiamethoxam,Soil Drench,2.0 ml/L
+Barley,Bollworm,Imidacloprid,Soil Drench,1.5 g/L
+Barley,Stem Borer,Thiamethoxam,Soil Drench,0.8 ml/L
+Barley,Peanut Bud Necrosis Virus,Pyrethrin,Soil Drench,1.0 ml/L
+Barley,Soybean Looper,Thiamethoxam,Soil Drench,1.5 ml/L
+Barley,Sugarcane Borer,Lambda-cyhalothrin,Soil Drench,3.0 g/L
+Barley,Stem Borer,Chlorpyrifos,Spray,1.5 g/L
+Barley,Whitefly,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Barley,Barley Yellow Dwarf Virus,Thiamethoxam,Soil Drench,3.0 g/L
+Barley,Sugarcane Borer,Pyrethrin,Spray,1.5 ml/L
+Barley,Whitefly,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Barley,Bollworm,Cartap Hydrochloride,Spray,1.0 ml/L
+Barley,Soybean Looper,Thiamethoxam,Soil Application,1.5 g/L
+Barley,Aphids,Chlorpyrifos,Soil Drench,1.5 g/L
+Barley,Peanut Bud Necrosis Virus,Thiamethoxam,Spray,0.3 ml/L
+Barley,Stem Borer,Imidacloprid,Spray,1.0 ml/L
+Barley,Soybean Looper,Imidacloprid,Spray,3.0 g/L
+Barley,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,0.3 ml/L
+Barley,Whitefly,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Barley,Aphids,Bacillus thuringiensis,Spray,0.8 ml/L
+Barley,Armyworm,Azadirachtin (Neem Oil),Soil Application,2.5 ml/L
+Barley,Soybean Looper,Imidacloprid,Spray,3.0 g/L
+Barley,Stem Borer,Bacillus thuringiensis,Spray,1.5 ml/L
+Barley,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,2.0 ml/L
+Barley,Aphids,Chlorpyrifos,Soil Drench,1.5 g/L
+Barley,Bollworm,Chlorpyrifos,Soil Drench,2.5 ml/L
+Barley,Peanut Bud Necrosis Virus,Pyrethrin,Soil Drench,1.0 ml/L
+Barley,Potato Beetle,Chlorpyrifos,Soil Application,3.0 g/L
+Barley,Soybean Looper,Cartap Hydrochloride,Spray,2.5 ml/L
+Barley,Bollworm,Imidacloprid,Spray,1.0 ml/L
+Barley,Bollworm,Bacillus thuringiensis,Soil Application,2.5 ml/L
+Barley,Potato Beetle,Imidacloprid,Soil Application,1.5 g/L
+Barley,Armyworm,Lambda-cyhalothrin,Soil Application,0.3 ml/L
+Barley,Stem Borer,Chlorpyrifos,Spray,1.5 g/L
+Barley,Whitefly,Thiamethoxam,Spray,1.5 g/L
+Barley,Potato Beetle,Chlorpyrifos,Soil Application,3.0 g/L
+Barley,Stem Borer,Imidacloprid,Soil Application,2.5 ml/L
+Barley,Armyworm,Thiamethoxam,Soil Application,2.5 ml/L
+Barley,Stem Borer,Thiamethoxam,Soil Drench,2.0 ml/L
+Barley,Soybean Looper,Cartap Hydrochloride,Spray,2.5 ml/L
+Barley,Bollworm,Imidacloprid,Spray,1.0 ml/L
+Cotton,Aphids,Lambda-cyhalothrin,Soil Drench,1.5 g/L
+Cotton,Stem Borer,Cartap Hydrochloride,Spray,0.8 ml/L
+Cotton,Armyworm,Fipronil,Spray,0.8 ml/L
+Cotton,Stem Borer,Thiamethoxam,Spray,1.5 ml/L
+Cotton,Potato Beetle,Cartap Hydrochloride,Soil Application,1.5 ml/L
+Cotton,Potato Beetle,Thiamethoxam,Soil Drench,0.8 ml/L
+Cotton,Potato Beetle,Cartap Hydrochloride,Soil Drench,2.0 ml/L
+Cotton,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Soil Drench,1.0 ml/L
+Cotton,Sugarcane Borer,Spinosad,Soil Drench,1.5 g/L
+Cotton,Peanut Bud Necrosis Virus,Chlorpyrifos,Soil Application,1.5 ml/L
+Cotton,Sugarcane Borer,Chlorpyrifos,Soil Drench,0.8 ml/L
+Cotton,Armyworm,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Cotton,Armyworm,Thiamethoxam,Spray,2.5 ml/L
+Cotton,Aphids,Spinosad,Soil Drench,2.0 ml/L
+Cotton,Peanut Bud Necrosis Virus,Pyrethrin,Soil Application,1.5 ml/L
+Cotton,Stem Borer,Imidacloprid,Soil Drench,1.0 g/L
+Cotton,Aphids,Spinosad,Soil Drench,2.0 ml/L
+Cotton,Bollworm,Pyrethrin,Soil Drench,1.0 ml/L
+Cotton,Stem Borer,Spinosad,Soil Application,2.5 ml/L
+Cotton,Whitefly,Bacillus thuringiensis,Soil Drench,0.3 ml/L
+Cotton,Stem Borer,Chlorpyrifos,Soil Application,1.5 g/L
+Cotton,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Spray,2.0 ml/L
+Cotton,Armyworm,Spinosad,Soil Drench,2.0 ml/L
+Cotton,Peanut Bud Necrosis Virus,Spinosad,Soil Application,0.8 ml/L
+Cotton,Whitefly,Azadirachtin (Neem Oil),Spray,1.5 ml/L
+Cotton,Soybean Looper,Chlorpyrifos,Soil Application,2.5 ml/L
+Cotton,Peanut Bud Necrosis Virus,Imidacloprid,Soil Drench,0.3 ml/L
+Cotton,Stem Borer,Fipronil,Soil Drench,2.0 ml/L
+Cotton,Stem Borer,Chlorpyrifos,Soil Application,1.5 g/L
+Cotton,Stem Borer,Thiamethoxam,Spray,1.5 ml/L
+Cotton,Peanut Bud Necrosis Virus,Imidacloprid,Soil Drench,2.5 ml/L
+Cotton,Stem Borer,Cartap Hydrochloride,Spray,0.8 ml/L
+Cotton,Potato Beetle,Lambda-cyhalothrin,Soil Application,2.0 ml/L
+Cotton,Stem Borer,Spinosad,Spray,2.0 ml/L
+Cotton,Sugarcane Borer,Pyrethrin,Soil Application,0.3 ml/L
+Cotton,Aphids,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Cotton,Whitefly,Chlorpyrifos,Soil Application,1.0 g/L
+Cotton,Potato Beetle,Bacillus thuringiensis,Spray,1.0 ml/L
+Cotton,Soybean Looper,Bacillus thuringiensis,Soil Application,1.0 ml/L
+Cotton,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,0.8 ml/L
+Cotton,Bollworm,Fipronil,Spray,2.5 ml/L
+Cotton,Bollworm,Azadirachtin (Neem Oil),Soil Application,0.3 ml/L
+Cotton,Sugarcane Borer,Thiamethoxam,Spray,3.0 g/L
+Cotton,Sugarcane Borer,Thiamethoxam,Spray,3.0 g/L
+Cotton,Soybean Looper,Bacillus thuringiensis,Soil Drench,1.0 ml/L
+Cotton,Sugarcane Borer,Thiamethoxam,Spray,3.0 g/L
+Cotton,Bollworm,Fipronil,Soil Drench,1.0 g/L
+Cotton,Sugarcane Borer,Fipronil,Soil Application,1.5 ml/L
+Cotton,Stem Borer,Thiamethoxam,Spray,1.5 ml/L
+Cotton,Sugarcane Borer,Spinosad,Soil Drench,1.5 g/L
+Cotton,Soybean Looper,Bacillus thuringiensis,Soil Application,1.0 ml/L
+Cotton,Armyworm,Pyrethrin,Soil Drench,0.3 ml/L
+Cotton,Whitefly,Imidacloprid,Spray,1.5 g/L
+Cotton,Bollworm,Chlorpyrifos,Spray,1.5 ml/L
+Cotton,Stem Borer,Chlorpyrifos,Soil Application,1.5 g/L
+Cotton,Bollworm,Fipronil,Soil Drench,1.0 g/L
+Cotton,Whitefly,Imidacloprid,Soil Application,0.8 ml/L
+Cotton,Soybean Looper,Fipronil,Spray,2.0 ml/L
+Cotton,Bollworm,Azadirachtin (Neem Oil),Spray,1.0 ml/L
+Cotton,Soybean Looper,Chlorpyrifos,Soil Application,2.5 ml/L
+Cotton,Sugarcane Borer,Chlorpyrifos,Soil Drench,0.8 ml/L
+Cotton,Peanut Bud Necrosis Virus,Pyrethrin,Soil Application,1.5 ml/L
+Cotton,Sugarcane Borer,Fipronil,Soil Application,1.5 ml/L
+Cotton,Sugarcane Borer,Lambda-cyhalothrin,Soil Drench,3.0 g/L
+Cotton,Sugarcane Borer,Chlorpyrifos,Soil Drench,0.8 ml/L
+Cotton,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Soil Drench,1.0 ml/L
+Cotton,Barley Yellow Dwarf Virus,Spinosad,Soil Application,3.0 g/L
+Cotton,Barley Yellow Dwarf Virus,Spinosad,Soil Application,3.0 g/L
+Cotton,Whitefly,Chlorpyrifos,Soil Application,1.0 g/L
+Cotton,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,1.5 g/L
+Cotton,Sugarcane Borer,Chlorpyrifos,Soil Drench,0.8 ml/L
+Cotton,Peanut Bud Necrosis Virus,Pyrethrin,Soil Application,1.5 ml/L
+Cotton,Peanut Bud Necrosis Virus,Spinosad,Soil Application,0.8 ml/L
+Cotton,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Spray,2.0 ml/L
+Cotton,Soybean Looper,Cartap Hydrochloride,Spray,0.8 ml/L
+Cotton,Potato Beetle,Cartap Hydrochloride,Soil Application,1.5 ml/L
+Cotton,Bollworm,Imidacloprid,Spray,1.0 g/L
+Cotton,Aphids,Bacillus thuringiensis,Soil Application,2.0 ml/L
+Cotton,Armyworm,Lambda-cyhalothrin,Soil Drench,1.5 ml/L
+Cotton,Whitefly,Bacillus thuringiensis,Soil Application,2.0 ml/L
+Cotton,Bollworm,Cartap Hydrochloride,Soil Application,0.8 ml/L
+Cotton,Whitefly,Chlorpyrifos,Soil Application,1.5 g/L
+Cotton,Stem Borer,Spinosad,Soil Drench,1.5 g/L
+Cotton,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Drench,1.0 g/L
+Cotton,Barley Yellow Dwarf Virus,Spinosad,Soil Application,3.0 g/L
+Cotton,Peanut Bud Necrosis Virus,Chlorpyrifos,Soil Application,1.5 ml/L
+Cotton,Peanut Bud Necrosis Virus,Imidacloprid,Soil Drench,0.3 ml/L
+Cotton,Armyworm,Lambda-cyhalothrin,Soil Drench,1.5 ml/L
+Cotton,Soybean Looper,Chlorpyrifos,Soil Application,2.5 ml/L
+Cotton,Stem Borer,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Cotton,Bollworm,Fipronil,Soil Drench,1.0 g/L
+Cotton,Sugarcane Borer,Pyrethrin,Soil Application,0.3 ml/L
+Cotton,Bollworm,Lambda-cyhalothrin,Soil Application,1.5 g/L
+Cotton,Whitefly,Bacillus thuringiensis,Soil Drench,0.3 ml/L
+Cotton,Stem Borer,Chlorpyrifos,Soil Drench,0.3 ml/L
+Cotton,Soybean Looper,Chlorpyrifos,Soil Application,2.5 ml/L
+Cotton,Armyworm,Lambda-cyhalothrin,Soil Drench,1.5 ml/L
+Cotton,Potato Beetle,Pyrethrin,Soil Application,1.0 ml/L
+Cotton,Aphids,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Cotton,Whitefly,Imidacloprid,Spray,1.5 g/L
+Cotton,Peanut Bud Necrosis Virus,Imidacloprid,Soil Drench,2.5 ml/L
+Cotton,Bollworm,Fipronil,Spray,2.5 ml/L
+Cotton,Whitefly,Chlorpyrifos,Spray,2.0 ml/L
+Cotton,Stem Borer,Imidacloprid,Soil Drench,1.0 g/L
+Cotton,Sugarcane Borer,Imidacloprid,Soil Application,0.8 ml/L
+Cotton,Stem Borer,Spinosad,Soil Drench,2.0 ml/L
+Cotton,Sugarcane Borer,Imidacloprid,Soil Application,0.8 ml/L
+Cotton,Potato Beetle,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Cotton,Potato Beetle,Pyrethrin,Soil Application,1.0 ml/L
+Cotton,Peanut Bud Necrosis Virus,Azadirachtin (Neem Oil),Soil Drench,2.0 ml/L
+Cotton,Soybean Looper,Fipronil,Spray,2.0 ml/L
+Cotton,Bollworm,Pyrethrin,Soil Drench,1.0 ml/L
+Cotton,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Spray,2.5 ml/L
+Cotton,Barley Yellow Dwarf Virus,Pyrethrin,Soil Drench,1.5 g/L
+Cotton,Stem Borer,Fipronil,Soil Drench,2.0 ml/L
+Cotton,Bollworm,Azadirachtin (Neem Oil),Soil Application,0.3 ml/L
+Cotton,Sugarcane Borer,Thiamethoxam,Spray,3.0 g/L
+Cotton,Peanut Bud Necrosis Virus,Thiamethoxam,Soil Drench,1.0 g/L
+Cotton,Bollworm,Imidacloprid,Spray,1.0 g/L
+Cotton,Potato Beetle,Bacillus thuringiensis,Spray,1.0 ml/L
+Cotton,Aphids,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Cotton,Stem Borer,Azadirachtin (Neem Oil),Soil Drench,0.3 ml/L
+Cotton,Armyworm,Lambda-cyhalothrin,Soil Drench,1.5 ml/L
+Cotton,Bollworm,Bacillus thuringiensis,Soil Application,2.5 ml/L
+Cotton,Soybean Looper,Chlorpyrifos,Soil Application,2.5 ml/L
+Cotton,Stem Borer,Imidacloprid,Soil Drench,1.0 g/L
+Cotton,Bollworm,Fipronil,Spray,2.5 ml/L
+Cotton,Armyworm,Spinosad,Soil Drench,2.0 ml/L
+Cotton,Potato Beetle,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Cotton,Soybean Looper,Thiamethoxam,Soil Application,2.0 ml/L
+Cotton,Potato Beetle,Bacillus thuringiensis,Spray,1.0 ml/L
+Maize,Aphids,Spinosad,Soil Application,2.5 ml/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,1.0 g/L
+Maize,Whitefly,Spinosad,Spray,2.0 ml/L
+Maize,Stem Borer,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Maize,Sugarcane Borer,Cartap Hydrochloride,Soil Application,3.0 g/L
+Maize,Barley Yellow Dwarf Virus,Spinosad,Spray,0.3 ml/L
+Maize,Bollworm,Cartap Hydrochloride,Spray,2.5 ml/L
+Maize,Potato Beetle,Thiamethoxam,Spray,1.0 ml/L
+Maize,Barley Yellow Dwarf Virus,Fipronil,Spray,2.0 ml/L
+Maize,Barley Yellow Dwarf Virus,Spinosad,Spray,0.3 ml/L
+Maize,Aphids,Cartap Hydrochloride,Spray,0.3 ml/L
+Maize,Potato Beetle,Thiamethoxam,Spray,1.5 ml/L
+Maize,Stem Borer,Chlorpyrifos,Spray,3.0 g/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,2.0 ml/L
+Maize,Stem Borer,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Maize,Soybean Looper,Thiamethoxam,Soil Application,1.0 g/L
+Maize,Soybean Looper,Thiamethoxam,Spray,0.3 ml/L
+Maize,Barley Yellow Dwarf Virus,Pyrethrin,Spray,3.0 g/L
+Maize,Stem Borer,Chlorpyrifos,Spray,3.0 g/L
+Maize,Peanut Bud Necrosis Virus,Cartap Hydrochloride,Spray,1.0 g/L
+Maize,Whitefly,Fipronil,Soil Drench,1.5 ml/L
+Maize,Whitefly,Chlorpyrifos,Soil Application,1.5 ml/L
+Maize,Barley Yellow Dwarf Virus,Spinosad,Spray,0.3 ml/L
+Maize,Potato Beetle,Chlorpyrifos,Soil Drench,0.8 ml/L
+Maize,Potato Beetle,Lambda-cyhalothrin,Spray,2.5 ml/L
+Maize,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Spray,2.0 ml/L
+Maize,Armyworm,Thiamethoxam,Soil Drench,1.0 g/L
+Maize,Aphids,Bacillus thuringiensis,Spray,2.5 ml/L
+Maize,Armyworm,Spinosad,Spray,0.8 ml/L
+Maize,Stem Borer,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Maize,Aphids,Spinosad,Soil Application,2.5 ml/L
+Maize,Bollworm,Bacillus thuringiensis,Soil Application,0.3 ml/L
+Maize,Sugarcane Borer,Cartap Hydrochloride,Soil Application,3.0 g/L
+Maize,Aphids,Chlorpyrifos,Soil Drench,0.8 ml/L
+Maize,Soybean Looper,Thiamethoxam,Spray,0.3 ml/L
+Maize,Soybean Looper,Fipronil,Soil Application,1.5 ml/L
+Maize,Potato Beetle,Thiamethoxam,Spray,1.0 ml/L
+Maize,Potato Beetle,Thiamethoxam,Soil Drench,2.0 ml/L
+Maize,Sugarcane Borer,Fipronil,Soil Application,0.3 ml/L
+Maize,Barley Yellow Dwarf Virus,Spinosad,Spray,1.0 ml/L
+Maize,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Soil Application,2.0 ml/L
+Maize,Whitefly,Chlorpyrifos,Soil Drench,2.0 ml/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,1.0 g/L
+Maize,Aphids,Cartap Hydrochloride,Spray,0.3 ml/L
+Maize,Peanut Bud Necrosis Virus,Cartap Hydrochloride,Spray,1.0 g/L
+Maize,Potato Beetle,Fipronil,Soil Application,1.0 g/L
+Maize,Aphids,Bacillus thuringiensis,Spray,2.5 ml/L
+Maize,Aphids,Chlorpyrifos,Spray,2.0 ml/L
+Maize,Armyworm,Spinosad,Spray,0.8 ml/L
+Maize,Stem Borer,Azadirachtin (Neem Oil),Soil Application,0.8 ml/L
+Maize,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,0.3 ml/L
+Maize,Whitefly,Bacillus thuringiensis,Spray,2.5 ml/L
+Maize,Barley Yellow Dwarf Virus,Fipronil,Spray,2.0 ml/L
+Maize,Stem Borer,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Maize,Stem Borer,Imidacloprid,Soil Application,1.5 g/L
+Maize,Sugarcane Borer,Spinosad,Soil Drench,1.0 ml/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,1.0 ml/L
+Maize,Stem Borer,Azadirachtin (Neem Oil),Soil Application,0.8 ml/L
+Maize,Sugarcane Borer,Fipronil,Soil Application,0.3 ml/L
+Maize,Stem Borer,Pyrethrin,Spray,0.8 ml/L
+Maize,Aphids,Chlorpyrifos,Soil Drench,0.8 ml/L
+Maize,Stem Borer,Cartap Hydrochloride,Soil Drench,2.5 ml/L
+Maize,Whitefly,Cartap Hydrochloride,Soil Drench,2.0 ml/L
+Maize,Armyworm,Imidacloprid,Spray,2.0 ml/L
+Maize,Peanut Bud Necrosis Virus,Thiamethoxam,Spray,1.5 g/L
+Maize,Whitefly,Imidacloprid,Soil Drench,1.5 ml/L
+Maize,Stem Borer,Chlorpyrifos,Spray,3.0 g/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,1.0 g/L
+Maize,Whitefly,Spinosad,Spray,2.0 ml/L
+Maize,Aphids,Cartap Hydrochloride,Soil Application,0.8 ml/L
+Maize,Potato Beetle,Chlorpyrifos,Soil Drench,0.8 ml/L
+Maize,Armyworm,Thiamethoxam,Soil Drench,1.0 ml/L
+Maize,Potato Beetle,Pyrethrin,Soil Drench,1.5 ml/L
+Maize,Whitefly,Pyrethrin,Soil Drench,2.0 ml/L
+Maize,Bollworm,Pyrethrin,Soil Drench,2.0 ml/L
+Maize,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,0.3 ml/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,2.0 ml/L
+Maize,Potato Beetle,Fipronil,Soil Application,1.0 g/L
+Maize,Potato Beetle,Pyrethrin,Soil Drench,1.5 ml/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Application,1.0 ml/L
+Maize,Armyworm,Thiamethoxam,Spray,2.5 ml/L
+Maize,Aphids,Bacillus thuringiensis,Spray,3.0 g/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,1.0 ml/L
+Maize,Armyworm,Thiamethoxam,Soil Drench,1.0 ml/L
+Maize,Whitefly,Pyrethrin,Soil Drench,2.0 ml/L
+Maize,Aphids,Bacillus thuringiensis,Spray,3.0 g/L
+Maize,Barley Yellow Dwarf Virus,Pyrethrin,Spray,3.0 g/L
+Maize,Barley Yellow Dwarf Virus,Spinosad,Spray,1.0 ml/L
+Maize,Whitefly,Spinosad,Spray,2.0 ml/L
+Maize,Potato Beetle,Thiamethoxam,Spray,1.5 ml/L
+Maize,Whitefly,Spinosad,Spray,2.0 ml/L
+Maize,Soybean Looper,Imidacloprid,Soil Application,0.8 ml/L
+Maize,Peanut Bud Necrosis Virus,Imidacloprid,Soil Drench,3.0 g/L
+Maize,Bollworm,Azadirachtin (Neem Oil),Soil Drench,0.8 ml/L
+Maize,Aphids,Cartap Hydrochloride,Spray,0.3 ml/L
+Maize,Potato Beetle,Imidacloprid,Soil Application,1.5 ml/L
+Maize,Bollworm,Pyrethrin,Soil Drench,2.0 ml/L
+Maize,Armyworm,Imidacloprid,Spray,2.0 ml/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,2.0 ml/L
+Maize,Sugarcane Borer,Cartap Hydrochloride,Soil Application,3.0 g/L
+Maize,Whitefly,Chlorpyrifos,Soil Application,1.5 ml/L
+Maize,Barley Yellow Dwarf Virus,Spinosad,Soil Drench,1.0 ml/L
+Maize,Soybean Looper,Thiamethoxam,Soil Application,1.0 g/L
+Maize,Whitefly,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Maize,Armyworm,Thiamethoxam,Spray,2.5 ml/L
+Maize,Stem Borer,Chlorpyrifos,Spray,3.0 g/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,1.0 ml/L
+Maize,Armyworm,Azadirachtin (Neem Oil),Soil Drench,1.0 ml/L
+Maize,Whitefly,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Maize,Armyworm,Thiamethoxam,Soil Drench,1.0 ml/L
+Maize,Bollworm,Azadirachtin (Neem Oil),Soil Drench,0.8 ml/L
+Maize,Potato Beetle,Spinosad,Soil Application,1.5 ml/L
+Maize,Potato Beetle,Thiamethoxam,Soil Drench,2.0 ml/L
+Maize,Stem Borer,Imidacloprid,Soil Application,0.3 ml/L
+Maize,Potato Beetle,Imidacloprid,Soil Drench,0.3 ml/L
+Maize,Bollworm,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Maize,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,0.3 ml/L
+Maize,Bollworm,Azadirachtin (Neem Oil),Soil Drench,0.8 ml/L
+Maize,Soybean Looper,Imidacloprid,Soil Application,0.8 ml/L
+Maize,Potato Beetle,Thiamethoxam,Spray,1.0 ml/L
+Maize,Aphids,Cartap Hydrochloride,Spray,0.3 ml/L
+Maize,Aphids,Spinosad,Soil Application,2.5 ml/L
+Maize,Barley Yellow Dwarf Virus,Spinosad,Soil Drench,1.0 ml/L
+Maize,Potato Beetle,Azadirachtin (Neem Oil),Soil Application,1.5 ml/L
+Maize,Peanut Bud Necrosis Virus,Chlorpyrifos,Soil Drench,0.3 ml/L
+Maize,Soybean Looper,Thiamethoxam,Spray,0.3 ml/L
+Maize,Peanut Bud Necrosis Virus,Imidacloprid,Soil Drench,3.0 g/L
+Maize,Armyworm,Spinosad,Spray,0.8 ml/L
+Maize,Potato Beetle,Spinosad,Soil Application,1.5 ml/L
+Maize,Whitefly,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Maize,Aphids,Fipronil,Soil Application,2.5 ml/L
+Peanut,Potato Beetle,Lambda-cyhalothrin,Soil Drench,1.0 ml/L
+Peanut,Bollworm,Imidacloprid,Soil Application,1.5 g/L
+Peanut,Bollworm,Cartap Hydrochloride,Soil Drench,0.3 ml/L
+Peanut,Soybean Looper,Thiamethoxam,Spray,1.0 g/L
+Peanut,Sugarcane Borer,Imidacloprid,Soil Application,1.5 g/L
+Peanut,Armyworm,Azadirachtin (Neem Oil),Soil Drench,1.5 g/L
+Peanut,Whitefly,Cartap Hydrochloride,Soil Drench,2.0 ml/L
+Peanut,Stem Borer,Bacillus thuringiensis,Soil Drench,1.5 g/L
+Peanut,Whitefly,Fipronil,Soil Application,0.8 ml/L
+Peanut,Bollworm,Cartap Hydrochloride,Soil Drench,0.3 ml/L
+Peanut,Sugarcane Borer,Imidacloprid,Soil Drench,0.3 ml/L
+Peanut,Potato Beetle,Cartap Hydrochloride,Soil Application,0.3 ml/L
+Peanut,Potato Beetle,Fipronil,Soil Drench,2.0 ml/L
+Peanut,Whitefly,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Peanut,Bollworm,Pyrethrin,Spray,1.0 g/L
+Peanut,Bollworm,Pyrethrin,Spray,1.5 g/L
+Peanut,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Drench,1.0 ml/L
+Peanut,Armyworm,Pyrethrin,Soil Drench,2.5 ml/L
+Peanut,Soybean Looper,Thiamethoxam,Spray,1.0 g/L
+Peanut,Soybean Looper,Lambda-cyhalothrin,Soil Application,0.3 ml/L
+Peanut,Potato Beetle,Bacillus thuringiensis,Spray,1.5 g/L
+Peanut,Whitefly,Bacillus thuringiensis,Soil Drench,0.8 ml/L
+Peanut,Soybean Looper,Imidacloprid,Soil Drench,0.8 ml/L
+Peanut,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Application,1.5 ml/L
+Peanut,Peanut Bud Necrosis Virus,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Peanut,Bollworm,Imidacloprid,Soil Drench,1.5 g/L
+Peanut,Sugarcane Borer,Chlorpyrifos,Soil Drench,1.0 g/L
+Peanut,Potato Beetle,Fipronil,Soil Drench,2.0 ml/L
+Peanut,Whitefly,Spinosad,Soil Application,3.0 g/L
+Peanut,Stem Borer,Thiamethoxam,Spray,3.0 g/L
+Peanut,Stem Borer,Thiamethoxam,Soil Application,1.5 g/L
+Peanut,Armyworm,Spinosad,Spray,1.5 g/L
+Peanut,Potato Beetle,Bacillus thuringiensis,Spray,1.5 g/L
+Peanut,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Application,1.5 ml/L
+Peanut,Potato Beetle,Thiamethoxam,Soil Drench,2.0 ml/L
+Peanut,Bollworm,Cartap Hydrochloride,Soil Drench,0.3 ml/L
+Peanut,Soybean Looper,Azadirachtin (Neem Oil),Spray,1.5 ml/L
+Peanut,Potato Beetle,Thiamethoxam,Soil Drench,3.0 g/L
+Peanut,Bollworm,Imidacloprid,Spray,2.0 ml/L
+Peanut,Whitefly,Lambda-cyhalothrin,Soil Application,1.5 ml/L
+Peanut,Sugarcane Borer,Bacillus thuringiensis,Soil Drench,0.8 ml/L
+Peanut,Sugarcane Borer,Imidacloprid,Soil Drench,1.5 ml/L
+Peanut,Stem Borer,Bacillus thuringiensis,Soil Drench,1.5 g/L
+Peanut,Sugarcane Borer,Cartap Hydrochloride,Spray,3.0 g/L
+Peanut,Armyworm,Spinosad,Soil Drench,1.5 ml/L
+Peanut,Soybean Looper,Imidacloprid,Soil Drench,0.8 ml/L
+Peanut,Armyworm,Spinosad,Spray,1.5 g/L
+Peanut,Bollworm,Cartap Hydrochloride,Soil Drench,0.3 ml/L
+Peanut,Armyworm,Pyrethrin,Soil Drench,2.5 ml/L
+Peanut,Bollworm,Cartap Hydrochloride,Soil Drench,0.3 ml/L
+Peanut,Whitefly,Fipronil,Soil Application,0.8 ml/L
+Peanut,Whitefly,Imidacloprid,Soil Drench,1.0 ml/L
+Peanut,Soybean Looper,Pyrethrin,Spray,0.3 ml/L
+Peanut,Whitefly,Bacillus thuringiensis,Soil Drench,1.5 g/L
+Peanut,Bollworm,Thiamethoxam,Soil Drench,1.5 ml/L
+Peanut,Peanut Bud Necrosis Virus,Chlorpyrifos,Soil Application,2.0 ml/L
+Peanut,Potato Beetle,Azadirachtin (Neem Oil),Soil Application,3.0 g/L
+Peanut,Aphids,Pyrethrin,Soil Drench,0.3 ml/L
+Peanut,Peanut Bud Necrosis Virus,Chlorpyrifos,Spray,0.8 ml/L
+Peanut,Peanut Bud Necrosis Virus,Fipronil,Spray,1.0 g/L
+Peanut,Sugarcane Borer,Pyrethrin,Spray,1.0 ml/L
+Peanut,Sugarcane Borer,Thiamethoxam,Spray,2.0 ml/L
+Peanut,Potato Beetle,Thiamethoxam,Soil Drench,3.0 g/L
+Peanut,Bollworm,Imidacloprid,Spray,2.5 ml/L
+Peanut,Sugarcane Borer,Cartap Hydrochloride,Spray,1.5 g/L
+Peanut,Bollworm,Pyrethrin,Spray,1.5 g/L
+Peanut,Soybean Looper,Fipronil,Soil Drench,0.8 ml/L
+Peanut,Peanut Bud Necrosis Virus,Chlorpyrifos,Soil Drench,3.0 g/L
+Peanut,Peanut Bud Necrosis Virus,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Peanut,Peanut Bud Necrosis Virus,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Peanut,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Spray,0.3 ml/L
+Peanut,Peanut Bud Necrosis Virus,Chlorpyrifos,Soil Application,2.0 ml/L
+Peanut,Whitefly,Spinosad,Soil Application,3.0 g/L
+Peanut,Bollworm,Imidacloprid,Soil Drench,1.5 g/L
+Peanut,Peanut Bud Necrosis Virus,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Peanut,Peanut Bud Necrosis Virus,Imidacloprid,Spray,1.0 ml/L
+Peanut,Peanut Bud Necrosis Virus,Chlorpyrifos,Soil Application,2.0 ml/L
+Peanut,Whitefly,Spinosad,Soil Application,3.0 g/L
+Peanut,Armyworm,Azadirachtin (Neem Oil),Spray,0.3 ml/L
+Peanut,Soybean Looper,Thiamethoxam,Spray,1.0 g/L
+Peanut,Armyworm,Spinosad,Spray,1.5 g/L
+Peanut,Soybean Looper,Fipronil,Soil Drench,3.0 g/L
+Peanut,Peanut Bud Necrosis Virus,Spinosad,Soil Application,1.5 g/L
+Peanut,Soybean Looper,Pyrethrin,Spray,0.3 ml/L
+Peanut,Bollworm,Spinosad,Soil Drench,2.0 ml/L
+Peanut,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Spray,0.3 ml/L
+Peanut,Whitefly,Spinosad,Soil Application,3.0 g/L
+Peanut,Peanut Bud Necrosis Virus,Spinosad,Soil Application,1.5 g/L
+Peanut,Whitefly,Azadirachtin (Neem Oil),Soil Application,1.0 ml/L
+Peanut,Soybean Looper,Imidacloprid,Soil Drench,0.8 ml/L
+Peanut,Peanut Bud Necrosis Virus,Fipronil,Soil Drench,1.5 ml/L
+Peanut,Bollworm,Imidacloprid,Spray,2.0 ml/L
+Peanut,Sugarcane Borer,Thiamethoxam,Spray,2.0 ml/L
+Peanut,Soybean Looper,Imidacloprid,Soil Drench,0.8 ml/L
+Peanut,Soybean Looper,Pyrethrin,Spray,0.3 ml/L
+Peanut,Whitefly,Imidacloprid,Soil Drench,1.0 ml/L
+Peanut,Stem Borer,Thiamethoxam,Spray,2.5 ml/L
+Peanut,Potato Beetle,Thiamethoxam,Soil Drench,2.0 ml/L
+Peanut,Soybean Looper,Imidacloprid,Soil Drench,0.8 ml/L
+Peanut,Sugarcane Borer,Cartap Hydrochloride,Spray,3.0 g/L
+Peanut,Sugarcane Borer,Cartap Hydrochloride,Spray,1.5 g/L
+Peanut,Aphids,Pyrethrin,Soil Drench,0.3 ml/L
+Peanut,Stem Borer,Bacillus thuringiensis,Soil Drench,1.5 g/L
+Peanut,Stem Borer,Pyrethrin,Soil Application,2.0 ml/L
+Peanut,Armyworm,Pyrethrin,Soil Drench,2.5 ml/L
+Peanut,Bollworm,Thiamethoxam,Soil Drench,1.5 ml/L
+Peanut,Aphids,Cartap Hydrochloride,Soil Drench,1.5 ml/L
+Peanut,Aphids,Imidacloprid,Spray,2.0 ml/L
+Peanut,Sugarcane Borer,Pyrethrin,Spray,1.0 ml/L
+Peanut,Whitefly,Cartap Hydrochloride,Soil Drench,2.0 ml/L
+Peanut,Bollworm,Thiamethoxam,Soil Drench,1.5 ml/L
+Peanut,Bollworm,Pyrethrin,Spray,1.0 g/L
+Peanut,Whitefly,Fipronil,Soil Application,0.3 ml/L
+Peanut,Whitefly,Thiamethoxam,Soil Drench,2.0 ml/L
+Peanut,Potato Beetle,Cartap Hydrochloride,Soil Application,0.3 ml/L
+Peanut,Aphids,Pyrethrin,Soil Application,0.3 ml/L
+Peanut,Sugarcane Borer,Chlorpyrifos,Soil Drench,1.0 g/L
+Peanut,Potato Beetle,Azadirachtin (Neem Oil),Soil Application,3.0 g/L
+Peanut,Bollworm,Thiamethoxam,Soil Drench,1.5 ml/L
+Peanut,Sugarcane Borer,Imidacloprid,Soil Drench,1.5 ml/L
+Peanut,Whitefly,Bacillus thuringiensis,Soil Drench,0.8 ml/L
+Peanut,Whitefly,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Peanut,Soybean Looper,Pyrethrin,Soil Application,1.0 g/L
+Peanut,Potato Beetle,Bacillus thuringiensis,Spray,1.5 g/L
+Peanut,Sugarcane Borer,Imidacloprid,Soil Drench,0.3 ml/L
+Peanut,Peanut Bud Necrosis Virus,Imidacloprid,Spray,1.0 ml/L
+Peanut,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Drench,1.0 ml/L
+Peanut,Bollworm,Cartap Hydrochloride,Soil Drench,0.3 ml/L
+Peanut,Armyworm,Azadirachtin (Neem Oil),Soil Application,1.5 g/L
+Peanut,Soybean Looper,Lambda-cyhalothrin,Soil Application,0.3 ml/L
+Peanut,Stem Borer,Thiamethoxam,Spray,2.5 ml/L
+Potato,Aphids,Cartap Hydrochloride,Spray,1.0 g/L
+Potato,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Soil Application,1.5 g/L
+Potato,Soybean Looper,Imidacloprid,Soil Drench,3.0 g/L
+Potato,Potato Beetle,Bacillus thuringiensis,Soil Drench,1.5 g/L
+Potato,Sugarcane Borer,Thiamethoxam,Spray,3.0 g/L
+Potato,Soybean Looper,Imidacloprid,Soil Drench,1.5 ml/L
+Potato,Potato Beetle,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Potato,Whitefly,Lambda-cyhalothrin,Soil Drench,1.5 ml/L
+Potato,Aphids,Thiamethoxam,Soil Application,0.8 ml/L
+Potato,Potato Beetle,Lambda-cyhalothrin,Soil Drench,1.0 g/L
+Potato,Barley Yellow Dwarf Virus,Spinosad,Spray,0.8 ml/L
+Potato,Bollworm,Pyrethrin,Soil Application,1.0 g/L
+Potato,Bollworm,Thiamethoxam,Soil Application,1.5 g/L
+Potato,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Potato,Armyworm,Azadirachtin (Neem Oil),Soil Drench,0.8 ml/L
+Potato,Whitefly,Cartap Hydrochloride,Spray,2.5 ml/L
+Potato,Aphids,Pyrethrin,Soil Drench,2.5 ml/L
+Potato,Stem Borer,Spinosad,Soil Application,2.5 ml/L
+Potato,Potato Beetle,Fipronil,Soil Application,2.0 ml/L
+Potato,Stem Borer,Spinosad,Soil Application,2.5 ml/L
+Potato,Stem Borer,Spinosad,Soil Application,2.5 ml/L
+Potato,Armyworm,Lambda-cyhalothrin,Spray,2.5 ml/L
+Potato,Stem Borer,Spinosad,Soil Application,0.8 ml/L
+Potato,Bollworm,Azadirachtin (Neem Oil),Soil Application,0.8 ml/L
+Potato,Bollworm,Azadirachtin (Neem Oil),Spray,0.8 ml/L
+Potato,Potato Beetle,Lambda-cyhalothrin,Soil Drench,1.0 g/L
+Potato,Barley Yellow Dwarf Virus,Spinosad,Spray,0.8 ml/L
+Potato,Sugarcane Borer,Bacillus thuringiensis,Soil Application,2.5 ml/L
+Potato,Bollworm,Pyrethrin,Soil Application,1.0 g/L
+Potato,Whitefly,Imidacloprid,Soil Application,1.0 g/L
+Potato,Bollworm,Azadirachtin (Neem Oil),Spray,0.8 ml/L
+Potato,Potato Beetle,Pyrethrin,Spray,2.5 ml/L
+Potato,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Soil Application,2.5 ml/L
+Potato,Sugarcane Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+Potato,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Spray,3.0 g/L
+Potato,Barley Yellow Dwarf Virus,Fipronil,Spray,1.5 ml/L
+Potato,Stem Borer,Spinosad,Soil Application,2.5 ml/L
+Potato,Whitefly,Fipronil,Soil Drench,2.0 ml/L
+Potato,Stem Borer,Spinosad,Soil Application,0.8 ml/L
+Potato,Peanut Bud Necrosis Virus,Cartap Hydrochloride,Soil Application,3.0 g/L
+Potato,Potato Beetle,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Potato,Stem Borer,Pyrethrin,Spray,1.5 ml/L
+Potato,Whitefly,Cartap Hydrochloride,Spray,2.5 ml/L
+Potato,Bollworm,Pyrethrin,Soil Application,1.0 g/L
+Potato,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Potato,Stem Borer,Spinosad,Soil Application,0.8 ml/L
+Potato,Aphids,Pyrethrin,Soil Drench,2.5 ml/L
+Potato,Stem Borer,Spinosad,Soil Application,2.5 ml/L
+Potato,Bollworm,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Potato,Bollworm,Azadirachtin (Neem Oil),Soil Application,0.8 ml/L
+Potato,Potato Beetle,Imidacloprid,Soil Application,2.5 ml/L
+Potato,Sugarcane Borer,Spinosad,Soil Drench,3.0 g/L
+Potato,Stem Borer,Spinosad,Soil Application,2.5 ml/L
+Potato,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Drench,1.5 ml/L
+Potato,Armyworm,Pyrethrin,Spray,0.3 ml/L
+Potato,Bollworm,Thiamethoxam,Soil Application,1.5 g/L
+Potato,Potato Beetle,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Potato,Peanut Bud Necrosis Virus,Pyrethrin,Soil Drench,2.5 ml/L
+Potato,Whitefly,Imidacloprid,Soil Application,1.0 g/L
+Potato,Soybean Looper,Thiamethoxam,Soil Drench,3.0 g/L
+Potato,Armyworm,Thiamethoxam,Soil Drench,1.5 g/L
+Potato,Sugarcane Borer,Spinosad,Soil Drench,3.0 g/L
+Potato,Whitefly,Imidacloprid,Soil Application,1.0 g/L
+Potato,Barley Yellow Dwarf Virus,Spinosad,Spray,0.8 ml/L
+Potato,Whitefly,Fipronil,Soil Drench,2.0 ml/L
+Potato,Stem Borer,Pyrethrin,Spray,1.5 ml/L
+Potato,Potato Beetle,Chlorpyrifos,Spray,2.5 ml/L
+Potato,Armyworm,Lambda-cyhalothrin,Spray,2.5 ml/L
+Potato,Soybean Looper,Thiamethoxam,Soil Drench,3.0 g/L
+Potato,Armyworm,Thiamethoxam,Soil Drench,1.5 g/L
+Potato,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Potato,Sugarcane Borer,Spinosad,Soil Drench,3.0 g/L
+Potato,Stem Borer,Spinosad,Soil Application,2.5 ml/L
+Potato,Peanut Bud Necrosis Virus,Spinosad,Spray,2.0 ml/L
+Potato,Bollworm,Thiamethoxam,Soil Application,1.5 g/L
+Potato,Aphids,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Potato,Soybean Looper,Thiamethoxam,Soil Drench,3.0 g/L
+Potato,Soybean Looper,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Potato,Soybean Looper,Thiamethoxam,Soil Drench,3.0 g/L
+Potato,Potato Beetle,Pyrethrin,Spray,2.5 ml/L
+Potato,Soybean Looper,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Potato,Soybean Looper,Imidacloprid,Soil Drench,1.5 ml/L
+Potato,Whitefly,Fipronil,Soil Drench,2.0 ml/L
+Potato,Armyworm,Lambda-cyhalothrin,Spray,2.5 ml/L
+Potato,Aphids,Spinosad,Soil Drench,3.0 g/L
+Potato,Whitefly,Spinosad,Soil Drench,1.5 g/L
+Potato,Aphids,Cartap Hydrochloride,Soil Application,0.8 ml/L
+Potato,Aphids,Cartap Hydrochloride,Spray,0.8 ml/L
+Potato,Sugarcane Borer,Thiamethoxam,Spray,3.0 g/L
+Potato,Soybean Looper,Azadirachtin (Neem Oil),Soil Application,0.3 ml/L
+Potato,Barley Yellow Dwarf Virus,Fipronil,Spray,1.5 ml/L
+Potato,Soybean Looper,Thiamethoxam,Soil Drench,3.0 g/L
+Potato,Stem Borer,Spinosad,Soil Application,2.5 ml/L
+Potato,Armyworm,Azadirachtin (Neem Oil),Soil Drench,0.8 ml/L
+Potato,Bollworm,Pyrethrin,Soil Application,1.0 g/L
+Potato,Sugarcane Borer,Thiamethoxam,Spray,3.0 g/L
+Potato,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,1.5 ml/L
+Potato,Aphids,Thiamethoxam,Soil Application,0.8 ml/L
+Potato,Armyworm,Pyrethrin,Spray,0.3 ml/L
+Potato,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Spray,3.0 g/L
+Potato,Potato Beetle,Pyrethrin,Soil Drench,0.8 ml/L
+Potato,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,1.5 ml/L
+Potato,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Spray,3.0 g/L
+Potato,Sugarcane Borer,Spinosad,Soil Drench,3.0 g/L
+Potato,Stem Borer,Lambda-cyhalothrin,Spray,0.3 ml/L
+Potato,Sugarcane Borer,Thiamethoxam,Spray,3.0 g/L
+Potato,Stem Borer,Fipronil,Soil Application,2.5 ml/L
+Potato,Armyworm,Pyrethrin,Spray,0.3 ml/L
+Potato,Armyworm,Lambda-cyhalothrin,Spray,2.5 ml/L
+Potato,Potato Beetle,Pyrethrin,Soil Drench,0.8 ml/L
+Potato,Whitefly,Cartap Hydrochloride,Spray,2.5 ml/L
+Potato,Whitefly,Imidacloprid,Spray,1.5 ml/L
+Potato,Bollworm,Pyrethrin,Soil Application,1.0 g/L
+Potato,Bollworm,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Potato,Soybean Looper,Spinosad,Soil Drench,2.5 ml/L
+Potato,Soybean Looper,Azadirachtin (Neem Oil),Soil Application,0.3 ml/L
+Potato,Soybean Looper,Spinosad,Soil Drench,2.5 ml/L
+Potato,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Drench,1.5 ml/L
+Potato,Bollworm,Pyrethrin,Soil Application,2.0 ml/L
+Potato,Peanut Bud Necrosis Virus,Spinosad,Spray,2.0 ml/L
+Potato,Whitefly,Fipronil,Soil Drench,2.0 ml/L
+Potato,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Potato,Aphids,Spinosad,Soil Drench,3.0 g/L
+Potato,Aphids,Cartap Hydrochloride,Soil Application,0.8 ml/L
+Potato,Potato Beetle,Pyrethrin,Spray,2.5 ml/L
+Potato,Whitefly,Bacillus thuringiensis,Soil Drench,1.0 ml/L
+Potato,Sugarcane Borer,Spinosad,Soil Drench,3.0 g/L
+Potato,Stem Borer,Fipronil,Soil Application,2.5 ml/L
+Potato,Bollworm,Imidacloprid,Spray,2.5 ml/L
+Potato,Barley Yellow Dwarf Virus,Thiamethoxam,Soil Drench,2.0 ml/L
+Potato,Aphids,Pyrethrin,Soil Drench,2.5 ml/L
+Rice,Barley Yellow Dwarf Virus,Fipronil,Spray,3.0 g/L
+Rice,Armyworm,Pyrethrin,Soil Application,0.8 ml/L
+Rice,Aphids,Cartap Hydrochloride,Spray,2.5 ml/L
+Rice,Sugarcane Borer,Azadirachtin (Neem Oil),Soil Drench,0.8 ml/L
+Rice,Sugarcane Borer,Cartap Hydrochloride,Spray,1.0 g/L
+Rice,Armyworm,Chlorpyrifos,Soil Application,3.0 g/L
+Rice,Armyworm,Cartap Hydrochloride,Soil Application,1.5 g/L
+Rice,Potato Beetle,Fipronil,Soil Application,1.0 g/L
+Rice,Peanut Bud Necrosis Virus,Spinosad,Spray,1.0 g/L
+Rice,Whitefly,Chlorpyrifos,Spray,0.8 ml/L
+Rice,Soybean Looper,Spinosad,Soil Application,1.5 g/L
+Rice,Armyworm,Spinosad,Spray,1.5 g/L
+Rice,Armyworm,Pyrethrin,Soil Application,0.8 ml/L
+Rice,Soybean Looper,Lambda-cyhalothrin,Soil Application,1.0 g/L
+Rice,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Drench,1.0 ml/L
+Rice,Aphids,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Rice,Armyworm,Pyrethrin,Soil Application,0.8 ml/L
+Rice,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Spray,1.0 g/L
+Rice,Potato Beetle,Bacillus thuringiensis,Spray,1.5 ml/L
+Rice,Bollworm,Spinosad,Soil Drench,0.3 ml/L
+Rice,Aphids,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Rice,Peanut Bud Necrosis Virus,Fipronil,Spray,0.3 ml/L
+Rice,Peanut Bud Necrosis Virus,Fipronil,Spray,1.0 g/L
+Rice,Sugarcane Borer,Imidacloprid,Spray,0.3 ml/L
+Rice,Sugarcane Borer,Cartap Hydrochloride,Spray,1.0 g/L
+Rice,Armyworm,Chlorpyrifos,Soil Application,3.0 g/L
+Rice,Potato Beetle,Bacillus thuringiensis,Spray,1.5 ml/L
+Rice,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Rice,Armyworm,Chlorpyrifos,Soil Application,3.0 g/L
+Rice,Armyworm,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Rice,Armyworm,Spinosad,Spray,1.5 g/L
+Rice,Whitefly,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Rice,Armyworm,Cartap Hydrochloride,Soil Application,1.5 g/L
+Rice,Stem Borer,Imidacloprid,Spray,0.8 ml/L
+Rice,Whitefly,Spinosad,Spray,1.0 g/L
+Rice,Aphids,Lambda-cyhalothrin,Soil Drench,0.3 ml/L
+Rice,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Application,1.0 ml/L
+Rice,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,2.5 ml/L
+Rice,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Application,1.0 ml/L
+Rice,Whitefly,Imidacloprid,Soil Drench,2.0 ml/L
+Rice,Stem Borer,Azadirachtin (Neem Oil),Soil Application,2.5 ml/L
+Rice,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Application,3.0 g/L
+Rice,Sugarcane Borer,Thiamethoxam,Spray,2.0 ml/L
+Rice,Armyworm,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Rice,Soybean Looper,Bacillus thuringiensis,Soil Drench,1.5 ml/L
+Rice,Peanut Bud Necrosis Virus,Fipronil,Spray,1.0 g/L
+Rice,Aphids,Cartap Hydrochloride,Spray,2.5 ml/L
+Rice,Aphids,Chlorpyrifos,Soil Application,0.3 ml/L
+Rice,Stem Borer,Thiamethoxam,Spray,1.0 ml/L
+Rice,Whitefly,Chlorpyrifos,Spray,0.8 ml/L
+Rice,Aphids,Lambda-cyhalothrin,Soil Drench,0.3 ml/L
+Rice,Aphids,Pyrethrin,Soil Drench,1.5 g/L
+Rice,Sugarcane Borer,Imidacloprid,Spray,0.3 ml/L
+Rice,Stem Borer,Lambda-cyhalothrin,Soil Application,2.0 ml/L
+Rice,Peanut Bud Necrosis Virus,Chlorpyrifos,Soil Application,0.3 ml/L
+Rice,Whitefly,Imidacloprid,Soil Drench,2.0 ml/L
+Rice,Stem Borer,Bacillus thuringiensis,Soil Drench,1.0 ml/L
+Rice,Armyworm,Spinosad,Spray,1.5 g/L
+Rice,Stem Borer,Chlorpyrifos,Soil Application,2.0 ml/L
+Rice,Stem Borer,Cartap Hydrochloride,Soil Application,1.0 g/L
+Rice,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Drench,1.5 g/L
+Rice,Stem Borer,Thiamethoxam,Spray,1.0 ml/L
+Rice,Whitefly,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Rice,Whitefly,Azadirachtin (Neem Oil),Spray,1.5 g/L
+Rice,Whitefly,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Rice,Barley Yellow Dwarf Virus,Thiamethoxam,Soil Drench,2.5 ml/L
+Rice,Stem Borer,Imidacloprid,Spray,0.8 ml/L
+Rice,Sugarcane Borer,Bacillus thuringiensis,Spray,2.5 ml/L
+Rice,Armyworm,Spinosad,Soil Application,0.8 ml/L
+Rice,Bollworm,Bacillus thuringiensis,Spray,2.0 ml/L
+Rice,Soybean Looper,Bacillus thuringiensis,Soil Application,2.5 ml/L
+Rice,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Soil Drench,1.0 ml/L
+Rice,Bollworm,Bacillus thuringiensis,Spray,2.0 ml/L
+Rice,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Drench,1.5 ml/L
+Rice,Aphids,Pyrethrin,Soil Drench,1.5 g/L
+Rice,Peanut Bud Necrosis Virus,Spinosad,Spray,1.5 ml/L
+Rice,Bollworm,Bacillus thuringiensis,Spray,2.0 ml/L
+Rice,Whitefly,Thiamethoxam,Soil Application,0.3 ml/L
+Rice,Aphids,Imidacloprid,Soil Application,2.5 ml/L
+Rice,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Soil Application,1.0 ml/L
+Rice,Stem Borer,Cartap Hydrochloride,Soil Application,1.0 g/L
+Rice,Aphids,Lambda-cyhalothrin,Spray,0.3 ml/L
+Rice,Bollworm,Bacillus thuringiensis,Spray,2.0 ml/L
+Rice,Whitefly,Thiamethoxam,Soil Application,0.3 ml/L
+Rice,Barley Yellow Dwarf Virus,Imidacloprid,Spray,2.5 ml/L
+Rice,Soybean Looper,Spinosad,Soil Application,1.5 g/L
+Rice,Soybean Looper,Bacillus thuringiensis,Soil Drench,1.5 ml/L
+Rice,Soybean Looper,Lambda-cyhalothrin,Soil Application,1.0 g/L
+Rice,Stem Borer,Azadirachtin (Neem Oil),Soil Application,2.5 ml/L
+Rice,Aphids,Spinosad,Soil Drench,0.3 ml/L
+Rice,Whitefly,Thiamethoxam,Soil Drench,1.5 ml/L
+Rice,Barley Yellow Dwarf Virus,Fipronil,Spray,2.5 ml/L
+Rice,Stem Borer,Pyrethrin,Soil Drench,1.5 g/L
+Rice,Barley Yellow Dwarf Virus,Spinosad,Soil Application,0.8 ml/L
+Rice,Whitefly,Thiamethoxam,Soil Application,0.3 ml/L
+Rice,Armyworm,Imidacloprid,Soil Application,0.8 ml/L
+Rice,Whitefly,Thiamethoxam,Soil Application,0.3 ml/L
+Rice,Peanut Bud Necrosis Virus,Spinosad,Spray,1.0 g/L
+Rice,Soybean Looper,Spinosad,Soil Application,1.5 g/L
+Rice,Sugarcane Borer,Lambda-cyhalothrin,Spray,1.5 ml/L
+Rice,Whitefly,Azadirachtin (Neem Oil),Spray,1.5 g/L
+Rice,Soybean Looper,Azadirachtin (Neem Oil),Spray,2.5 ml/L
+Rice,Whitefly,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Rice,Potato Beetle,Spinosad,Spray,2.0 ml/L
+Rice,Armyworm,Spinosad,Spray,1.5 g/L
+Rice,Aphids,Pyrethrin,Soil Drench,1.5 g/L
+Rice,Aphids,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Rice,Soybean Looper,Bacillus thuringiensis,Soil Application,2.5 ml/L
+Rice,Potato Beetle,Thiamethoxam,Soil Application,3.0 g/L
+Rice,Whitefly,Azadirachtin (Neem Oil),Spray,1.5 g/L
+Rice,Sugarcane Borer,Lambda-cyhalothrin,Spray,1.5 ml/L
+Rice,Sugarcane Borer,Azadirachtin (Neem Oil),Soil Drench,0.8 ml/L
+Rice,Peanut Bud Necrosis Virus,Chlorpyrifos,Soil Application,0.3 ml/L
+Rice,Whitefly,Imidacloprid,Soil Drench,2.0 ml/L
+Rice,Potato Beetle,Thiamethoxam,Soil Application,3.0 g/L
+Rice,Barley Yellow Dwarf Virus,Spinosad,Soil Application,0.8 ml/L
+Rice,Soybean Looper,Azadirachtin (Neem Oil),Spray,2.5 ml/L
+Rice,Aphids,Pyrethrin,Soil Drench,1.5 g/L
+Rice,Armyworm,Spinosad,Spray,1.5 g/L
+Rice,Barley Yellow Dwarf Virus,Thiamethoxam,Soil Drench,2.5 ml/L
+Rice,Sugarcane Borer,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Rice,Aphids,Azadirachtin (Neem Oil),Soil Drench,0.3 ml/L
+Rice,Potato Beetle,Fipronil,Soil Application,1.0 g/L
+Rice,Sugarcane Borer,Azadirachtin (Neem Oil),Soil Drench,0.8 ml/L
+Rice,Peanut Bud Necrosis Virus,Spinosad,Spray,1.0 g/L
+Rice,Stem Borer,Imidacloprid,Soil Application,1.5 ml/L
+Rice,Soybean Looper,Bacillus thuringiensis,Soil Application,2.5 ml/L
+Rice,Aphids,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Rice,Bollworm,Bacillus thuringiensis,Spray,2.0 ml/L
+Rice,Barley Yellow Dwarf Virus,Spinosad,Soil Application,0.8 ml/L
+Rice,Stem Borer,Azadirachtin (Neem Oil),Soil Application,2.5 ml/L
+Soybean,Whitefly,Bacillus thuringiensis,Spray,3.0 g/L
+Soybean,Soybean Looper,Imidacloprid,Spray,2.0 ml/L
+Soybean,Stem Borer,Chlorpyrifos,Spray,2.5 ml/L
+Soybean,Aphids,Azadirachtin (Neem Oil),Spray,2.5 ml/L
+Soybean,Aphids,Thiamethoxam,Soil Drench,2.5 ml/L
+Soybean,Stem Borer,Azadirachtin (Neem Oil),Soil Application,2.5 ml/L
+Soybean,Sugarcane Borer,Azadirachtin (Neem Oil),Soil Drench,1.5 ml/L
+Soybean,Barley Yellow Dwarf Virus,Spinosad,Spray,2.0 ml/L
+Soybean,Aphids,Fipronil,Soil Drench,2.0 ml/L
+Soybean,Aphids,Azadirachtin (Neem Oil),Spray,0.8 ml/L
+Soybean,Soybean Looper,Imidacloprid,Soil Drench,1.5 g/L
+Soybean,Aphids,Azadirachtin (Neem Oil),Spray,2.5 ml/L
+Soybean,Whitefly,Fipronil,Spray,1.0 ml/L
+Soybean,Soybean Looper,Pyrethrin,Soil Drench,0.3 ml/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Soil Application,1.5 ml/L
+Soybean,Aphids,Thiamethoxam,Soil Drench,2.5 ml/L
+Soybean,Whitefly,Cartap Hydrochloride,Spray,1.5 g/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Soil Application,1.5 ml/L
+Soybean,Whitefly,Spinosad,Soil Drench,1.0 g/L
+Soybean,Soybean Looper,Pyrethrin,Spray,0.8 ml/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Spray,2.0 ml/L
+Soybean,Bollworm,Chlorpyrifos,Soil Application,2.0 ml/L
+Soybean,Potato Beetle,Fipronil,Spray,1.0 g/L
+Soybean,Whitefly,Fipronil,Spray,0.8 ml/L
+Soybean,Stem Borer,Azadirachtin (Neem Oil),Soil Drench,1.0 g/L
+Soybean,Peanut Bud Necrosis Virus,Thiamethoxam,Soil Drench,1.0 ml/L
+Soybean,Sugarcane Borer,Cartap Hydrochloride,Spray,1.5 g/L
+Soybean,Barley Yellow Dwarf Virus,Thiamethoxam,Soil Application,1.0 g/L
+Soybean,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,3.0 g/L
+Soybean,Whitefly,Lambda-cyhalothrin,Spray,0.8 ml/L
+Soybean,Sugarcane Borer,Bacillus thuringiensis,Soil Application,3.0 g/L
+Soybean,Stem Borer,Spinosad,Soil Application,2.0 ml/L
+Soybean,Barley Yellow Dwarf Virus,Chlorpyrifos,Soil Drench,2.0 ml/L
+Soybean,Soybean Looper,Pyrethrin,Spray,0.8 ml/L
+Soybean,Whitefly,Cartap Hydrochloride,Soil Application,1.5 g/L
+Soybean,Stem Borer,Azadirachtin (Neem Oil),Soil Application,2.5 ml/L
+Soybean,Bollworm,Cartap Hydrochloride,Spray,1.5 ml/L
+Soybean,Armyworm,Chlorpyrifos,Spray,2.0 ml/L
+Soybean,Barley Yellow Dwarf Virus,Chlorpyrifos,Soil Drench,0.3 ml/L
+Soybean,Soybean Looper,Imidacloprid,Soil Drench,1.5 g/L
+Soybean,Aphids,Fipronil,Soil Drench,2.0 ml/L
+Soybean,Aphids,Azadirachtin (Neem Oil),Spray,0.8 ml/L
+Soybean,Potato Beetle,Lambda-cyhalothrin,Soil Drench,1.5 ml/L
+Soybean,Stem Borer,Spinosad,Spray,1.0 ml/L
+Soybean,Stem Borer,Azadirachtin (Neem Oil),Spray,1.0 ml/L
+Soybean,Soybean Looper,Cartap Hydrochloride,Soil Application,2.5 ml/L
+Soybean,Potato Beetle,Cartap Hydrochloride,Soil Drench,2.0 ml/L
+Soybean,Soybean Looper,Cartap Hydrochloride,Soil Application,2.5 ml/L
+Soybean,Barley Yellow Dwarf Virus,Thiamethoxam,Soil Application,1.0 g/L
+Soybean,Aphids,Bacillus thuringiensis,Soil Drench,3.0 g/L
+Soybean,Soybean Looper,Azadirachtin (Neem Oil),Spray,1.5 ml/L
+Soybean,Whitefly,Spinosad,Spray,1.5 ml/L
+Soybean,Aphids,Azadirachtin (Neem Oil),Spray,0.8 ml/L
+Soybean,Peanut Bud Necrosis Virus,Imidacloprid,Spray,2.0 ml/L
+Soybean,Whitefly,Spinosad,Soil Drench,1.0 g/L
+Soybean,Aphids,Bacillus thuringiensis,Spray,2.0 ml/L
+Soybean,Aphids,Pyrethrin,Soil Drench,0.3 ml/L
+Soybean,Whitefly,Spinosad,Spray,1.5 ml/L
+Soybean,Barley Yellow Dwarf Virus,Chlorpyrifos,Soil Drench,0.3 ml/L
+Soybean,Potato Beetle,Chlorpyrifos,Soil Application,2.0 ml/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Soil Application,1.5 ml/L
+Soybean,Whitefly,Cartap Hydrochloride,Spray,1.5 g/L
+Soybean,Soybean Looper,Azadirachtin (Neem Oil),Spray,2.5 ml/L
+Soybean,Bollworm,Pyrethrin,Soil Application,1.0 ml/L
+Soybean,Aphids,Bacillus thuringiensis,Soil Drench,3.0 g/L
+Soybean,Stem Borer,Azadirachtin (Neem Oil),Soil Application,1.5 g/L
+Soybean,Peanut Bud Necrosis Virus,Fipronil,Soil Drench,1.5 g/L
+Soybean,Barley Yellow Dwarf Virus,Spinosad,Spray,2.0 ml/L
+Soybean,Soybean Looper,Imidacloprid,Soil Drench,1.5 g/L
+Soybean,Barley Yellow Dwarf Virus,Chlorpyrifos,Soil Drench,0.3 ml/L
+Soybean,Aphids,Thiamethoxam,Soil Drench,3.0 g/L
+Soybean,Armyworm,Thiamethoxam,Spray,1.5 ml/L
+Soybean,Potato Beetle,Lambda-cyhalothrin,Soil Drench,1.5 ml/L
+Soybean,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Spray,1.0 ml/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Spray,2.0 ml/L
+Soybean,Potato Beetle,Fipronil,Spray,1.5 ml/L
+Soybean,Bollworm,Spinosad,Soil Drench,0.8 ml/L
+Soybean,Aphids,Thiamethoxam,Soil Drench,1.5 ml/L
+Soybean,Peanut Bud Necrosis Virus,Fipronil,Spray,1.0 g/L
+Soybean,Armyworm,Thiamethoxam,Soil Drench,0.8 ml/L
+Soybean,Armyworm,Chlorpyrifos,Spray,2.0 ml/L
+Soybean,Potato Beetle,Chlorpyrifos,Soil Application,2.0 ml/L
+Soybean,Aphids,Bacillus thuringiensis,Spray,2.0 ml/L
+Soybean,Aphids,Thiamethoxam,Soil Drench,3.0 g/L
+Soybean,Whitefly,Cartap Hydrochloride,Spray,1.5 g/L
+Soybean,Aphids,Fipronil,Soil Drench,2.0 ml/L
+Soybean,Bollworm,Azadirachtin (Neem Oil),Soil Drench,0.3 ml/L
+Soybean,Bollworm,Chlorpyrifos,Soil Application,2.0 ml/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Soil Application,2.0 ml/L
+Soybean,Potato Beetle,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Soybean,Aphids,Thiamethoxam,Soil Drench,1.5 ml/L
+Soybean,Soybean Looper,Azadirachtin (Neem Oil),Spray,2.5 ml/L
+Soybean,Whitefly,Chlorpyrifos,Soil Drench,3.0 g/L
+Soybean,Aphids,Pyrethrin,Soil Drench,0.3 ml/L
+Soybean,Potato Beetle,Imidacloprid,Soil Application,2.5 ml/L
+Soybean,Stem Borer,Chlorpyrifos,Soil Application,1.5 g/L
+Soybean,Barley Yellow Dwarf Virus,Chlorpyrifos,Soil Drench,2.0 ml/L
+Soybean,Soybean Looper,Imidacloprid,Spray,2.0 ml/L
+Soybean,Stem Borer,Chlorpyrifos,Soil Application,1.5 g/L
+Soybean,Aphids,Bacillus thuringiensis,Soil Drench,3.0 g/L
+Soybean,Aphids,Bacillus thuringiensis,Soil Drench,3.0 g/L
+Soybean,Whitefly,Lambda-cyhalothrin,Spray,0.8 ml/L
+Soybean,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Spray,1.0 ml/L
+Soybean,Soybean Looper,Pyrethrin,Soil Drench,0.3 ml/L
+Soybean,Stem Borer,Fipronil,Soil Application,0.3 ml/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Soil Application,1.5 ml/L
+Soybean,Stem Borer,Spinosad,Spray,1.0 ml/L
+Soybean,Potato Beetle,Lambda-cyhalothrin,Soil Drench,1.5 ml/L
+Soybean,Aphids,Azadirachtin (Neem Oil),Spray,0.8 ml/L
+Soybean,Bollworm,Azadirachtin (Neem Oil),Soil Drench,0.3 ml/L
+Soybean,Stem Borer,Chlorpyrifos,Spray,2.5 ml/L
+Soybean,Stem Borer,Chlorpyrifos,Spray,1.0 g/L
+Soybean,Whitefly,Chlorpyrifos,Soil Drench,3.0 g/L
+Soybean,Peanut Bud Necrosis Virus,Bacillus thuringiensis,Spray,1.0 ml/L
+Soybean,Armyworm,Fipronil,Soil Drench,2.5 ml/L
+Soybean,Whitefly,Lambda-cyhalothrin,Spray,0.8 ml/L
+Soybean,Sugarcane Borer,Cartap Hydrochloride,Soil Drench,1.5 ml/L
+Soybean,Whitefly,Spinosad,Soil Drench,1.0 g/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Soil Application,1.5 ml/L
+Soybean,Aphids,Bacillus thuringiensis,Spray,2.0 ml/L
+Soybean,Bollworm,Azadirachtin (Neem Oil),Soil Drench,0.3 ml/L
+Soybean,Stem Borer,Fipronil,Soil Application,0.3 ml/L
+Soybean,Soybean Looper,Imidacloprid,Soil Drench,1.5 g/L
+Soybean,Peanut Bud Necrosis Virus,Thiamethoxam,Soil Drench,1.0 ml/L
+Soybean,Stem Borer,Chlorpyrifos,Spray,1.0 g/L
+Soybean,Bollworm,Azadirachtin (Neem Oil),Soil Drench,0.3 ml/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Soil Application,1.5 ml/L
+Soybean,Soybean Looper,Bacillus thuringiensis,Soil Application,1.5 ml/L
+Soybean,Soybean Looper,Pyrethrin,Soil Drench,0.3 ml/L
+Soybean,Aphids,Pyrethrin,Soil Drench,0.3 ml/L
+Soybean,Soybean Looper,Chlorpyrifos,Spray,0.3 ml/L
+Sugarcane,Peanut Bud Necrosis Virus,Imidacloprid,Soil Drench,1.0 g/L
+Sugarcane,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Sugarcane,Stem Borer,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Sugarcane,Whitefly,Azadirachtin (Neem Oil),Soil Drench,1.0 g/L
+Sugarcane,Peanut Bud Necrosis Virus,Fipronil,Soil Drench,1.5 g/L
+Sugarcane,Bollworm,Bacillus thuringiensis,Soil Drench,0.8 ml/L
+Sugarcane,Aphids,Cartap Hydrochloride,Soil Drench,2.5 ml/L
+Sugarcane,Soybean Looper,Bacillus thuringiensis,Soil Application,0.3 ml/L
+Sugarcane,Stem Borer,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Sugarcane,Soybean Looper,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Sugarcane,Sugarcane Borer,Imidacloprid,Soil Drench,3.0 g/L
+Sugarcane,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Application,1.5 g/L
+Sugarcane,Peanut Bud Necrosis Virus,Spinosad,Spray,2.0 ml/L
+Sugarcane,Potato Beetle,Pyrethrin,Soil Application,1.5 g/L
+Sugarcane,Bollworm,Bacillus thuringiensis,Soil Drench,0.8 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Application,3.0 g/L
+Sugarcane,Bollworm,Bacillus thuringiensis,Soil Drench,0.8 ml/L
+Sugarcane,Peanut Bud Necrosis Virus,Spinosad,Spray,2.0 ml/L
+Sugarcane,Armyworm,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Spinosad,Soil Drench,2.0 ml/L
+Sugarcane,Soybean Looper,Pyrethrin,Soil Drench,2.0 ml/L
+Sugarcane,Armyworm,Lambda-cyhalothrin,Soil Drench,1.0 g/L
+Sugarcane,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Application,3.0 g/L
+Sugarcane,Sugarcane Borer,Lambda-cyhalothrin,Spray,1.5 ml/L
+Sugarcane,Whitefly,Fipronil,Soil Application,3.0 g/L
+Sugarcane,Armyworm,Lambda-cyhalothrin,Soil Drench,1.0 g/L
+Sugarcane,Stem Borer,Chlorpyrifos,Soil Drench,0.8 ml/L
+Sugarcane,Sugarcane Borer,Imidacloprid,Soil Drench,3.0 g/L
+Sugarcane,Aphids,Chlorpyrifos,Soil Application,2.0 ml/L
+Sugarcane,Whitefly,Chlorpyrifos,Soil Drench,1.5 g/L
+Sugarcane,Armyworm,Spinosad,Soil Application,2.0 ml/L
+Sugarcane,Whitefly,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Sugarcane,Soybean Looper,Thiamethoxam,Spray,2.0 ml/L
+Sugarcane,Bollworm,Bacillus thuringiensis,Soil Drench,0.8 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Spinosad,Soil Application,2.0 ml/L
+Sugarcane,Aphids,Chlorpyrifos,Spray,1.0 g/L
+Sugarcane,Whitefly,Cartap Hydrochloride,Spray,1.5 g/L
+Sugarcane,Soybean Looper,Spinosad,Soil Drench,2.0 ml/L
+Sugarcane,Sugarcane Borer,Chlorpyrifos,Soil Application,1.0 ml/L
+Sugarcane,Peanut Bud Necrosis Virus,Pyrethrin,Soil Drench,2.0 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Sugarcane,Soybean Looper,Chlorpyrifos,Soil Drench,2.0 ml/L
+Sugarcane,Sugarcane Borer,Cartap Hydrochloride,Soil Application,0.3 ml/L
+Sugarcane,Sugarcane Borer,Cartap Hydrochloride,Spray,3.0 g/L
+Sugarcane,Bollworm,Imidacloprid,Soil Drench,1.5 ml/L
+Sugarcane,Armyworm,Bacillus thuringiensis,Soil Application,3.0 g/L
+Sugarcane,Peanut Bud Necrosis Virus,Imidacloprid,Spray,3.0 g/L
+Sugarcane,Aphids,Lambda-cyhalothrin,Spray,2.0 ml/L
+Sugarcane,Whitefly,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Sugarcane,Sugarcane Borer,Imidacloprid,Soil Application,1.5 ml/L
+Sugarcane,Aphids,Azadirachtin (Neem Oil),Spray,0.8 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Application,1.5 g/L
+Sugarcane,Aphids,Pyrethrin,Soil Drench,2.0 ml/L
+Sugarcane,Soybean Looper,Spinosad,Soil Drench,2.0 ml/L
+Sugarcane,Aphids,Cartap Hydrochloride,Soil Drench,2.5 ml/L
+Sugarcane,Whitefly,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Sugarcane,Barley Yellow Dwarf Virus,Spinosad,Soil Application,2.0 ml/L
+Sugarcane,Sugarcane Borer,Fipronil,Soil Drench,3.0 g/L
+Sugarcane,Barley Yellow Dwarf Virus,Imidacloprid,Soil Drench,2.0 ml/L
+Sugarcane,Armyworm,Fipronil,Soil Drench,3.0 g/L
+Sugarcane,Aphids,Chlorpyrifos,Spray,1.0 g/L
+Sugarcane,Aphids,Azadirachtin (Neem Oil),Spray,1.5 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Application,3.0 g/L
+Sugarcane,Armyworm,Imidacloprid,Spray,2.0 ml/L
+Sugarcane,Sugarcane Borer,Chlorpyrifos,Soil Drench,1.5 g/L
+Sugarcane,Soybean Looper,Imidacloprid,Spray,0.8 ml/L
+Sugarcane,Potato Beetle,Cartap Hydrochloride,Soil Application,1.0 g/L
+Sugarcane,Stem Borer,Chlorpyrifos,Soil Drench,0.8 ml/L
+Sugarcane,Whitefly,Azadirachtin (Neem Oil),Soil Drench,1.0 g/L
+Sugarcane,Whitefly,Imidacloprid,Soil Drench,0.3 ml/L
+Sugarcane,Bollworm,Bacillus thuringiensis,Soil Drench,0.8 ml/L
+Sugarcane,Sugarcane Borer,Chlorpyrifos,Soil Application,1.0 ml/L
+Sugarcane,Aphids,Azadirachtin (Neem Oil),Spray,1.5 ml/L
+Sugarcane,Armyworm,Imidacloprid,Spray,1.5 ml/L
+Sugarcane,Aphids,Pyrethrin,Spray,0.3 ml/L
+Sugarcane,Stem Borer,Fipronil,Spray,1.5 ml/L
+Sugarcane,Sugarcane Borer,Thiamethoxam,Spray,1.0 g/L
+Sugarcane,Aphids,Pyrethrin,Soil Drench,2.0 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,2.0 ml/L
+Sugarcane,Soybean Looper,Azadirachtin (Neem Oil),Soil Application,3.0 g/L
+Sugarcane,Armyworm,Spinosad,Soil Application,2.0 ml/L
+Sugarcane,Potato Beetle,Thiamethoxam,Soil Application,1.0 g/L
+Sugarcane,Barley Yellow Dwarf Virus,Fipronil,Soil Drench,0.8 ml/L
+Sugarcane,Whitefly,Imidacloprid,Soil Drench,1.0 ml/L
+Sugarcane,Sugarcane Borer,Chlorpyrifos,Soil Application,1.0 ml/L
+Sugarcane,Sugarcane Borer,Thiamethoxam,Soil Application,1.0 ml/L
+Sugarcane,Whitefly,Chlorpyrifos,Soil Drench,1.5 g/L
+Sugarcane,Potato Beetle,Imidacloprid,Soil Drench,1.0 g/L
+Sugarcane,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Application,3.0 g/L
+Sugarcane,Soybean Looper,Fipronil,Soil Drench,1.0 ml/L
+Sugarcane,Armyworm,Spinosad,Soil Application,2.0 ml/L
+Sugarcane,Sugarcane Borer,Lambda-cyhalothrin,Spray,1.5 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Spinosad,Spray,3.0 g/L
+Sugarcane,Peanut Bud Necrosis Virus,Imidacloprid,Spray,3.0 g/L
+Sugarcane,Armyworm,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Sugarcane,Potato Beetle,Cartap Hydrochloride,Soil Application,1.0 g/L
+Sugarcane,Armyworm,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Sugarcane,Soybean Looper,Thiamethoxam,Spray,1.0 ml/L
+Sugarcane,Peanut Bud Necrosis Virus,Pyrethrin,Spray,1.5 g/L
+Sugarcane,Sugarcane Borer,Chlorpyrifos,Soil Drench,1.5 g/L
+Sugarcane,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Sugarcane,Aphids,Pyrethrin,Spray,0.3 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Application,3.0 g/L
+Sugarcane,Stem Borer,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Sugarcane,Stem Borer,Lambda-cyhalothrin,Soil Application,1.5 g/L
+Sugarcane,Sugarcane Borer,Thiamethoxam,Spray,1.0 g/L
+Sugarcane,Barley Yellow Dwarf Virus,Fipronil,Soil Drench,0.8 ml/L
+Sugarcane,Stem Borer,Chlorpyrifos,Soil Drench,0.8 ml/L
+Sugarcane,Soybean Looper,Azadirachtin (Neem Oil),Soil Application,3.0 g/L
+Sugarcane,Stem Borer,Fipronil,Soil Drench,1.0 ml/L
+Sugarcane,Aphids,Azadirachtin (Neem Oil),Spray,1.5 ml/L
+Sugarcane,Aphids,Lambda-cyhalothrin,Spray,2.0 ml/L
+Sugarcane,Sugarcane Borer,Lambda-cyhalothrin,Spray,1.5 ml/L
+Sugarcane,Stem Borer,Spinosad,Soil Drench,2.0 ml/L
+Sugarcane,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Application,1.5 g/L
+Sugarcane,Sugarcane Borer,Chlorpyrifos,Soil Application,1.0 ml/L
+Sugarcane,Soybean Looper,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Sugarcane,Stem Borer,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Sugarcane,Armyworm,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Sugarcane,Sugarcane Borer,Imidacloprid,Spray,2.0 ml/L
+Sugarcane,Bollworm,Bacillus thuringiensis,Soil Drench,0.8 ml/L
+Sugarcane,Stem Borer,Spinosad,Soil Drench,2.0 ml/L
+Sugarcane,Sugarcane Borer,Fipronil,Soil Drench,3.0 g/L
+Sugarcane,Aphids,Fipronil,Spray,2.5 ml/L
+Sugarcane,Sugarcane Borer,Azadirachtin (Neem Oil),Spray,1.5 ml/L
+Sugarcane,Peanut Bud Necrosis Virus,Imidacloprid,Soil Drench,1.0 g/L
+Sugarcane,Whitefly,Cartap Hydrochloride,Soil Drench,1.0 g/L
+Sugarcane,Sugarcane Borer,Cartap Hydrochloride,Soil Application,0.3 ml/L
+Sugarcane,Armyworm,Spinosad,Soil Application,2.0 ml/L
+Sugarcane,Aphids,Chlorpyrifos,Spray,1.0 g/L
+Sugarcane,Soybean Looper,Azadirachtin (Neem Oil),Soil Application,3.0 g/L
+Tomato,Stem Borer,Imidacloprid,Soil Application,0.8 ml/L
+Tomato,Whitefly,Imidacloprid,Soil Drench,0.3 ml/L
+Tomato,Armyworm,Chlorpyrifos,Soil Application,1.0 g/L
+Tomato,Stem Borer,Spinosad,Spray,2.5 ml/L
+Tomato,Stem Borer,Spinosad,Spray,2.5 ml/L
+Tomato,Stem Borer,Imidacloprid,Spray,2.5 ml/L
+Tomato,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Tomato,Bollworm,Thiamethoxam,Soil Drench,3.0 g/L
+Tomato,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Application,1.0 ml/L
+Tomato,Armyworm,Chlorpyrifos,Spray,2.0 ml/L
+Tomato,Barley Yellow Dwarf Virus,Spinosad,Soil Drench,0.3 ml/L
+Tomato,Stem Borer,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Tomato,Stem Borer,Imidacloprid,Spray,2.5 ml/L
+Tomato,Whitefly,Spinosad,Spray,2.0 ml/L
+Tomato,Soybean Looper,Pyrethrin,Spray,2.0 ml/L
+Tomato,Bollworm,Imidacloprid,Soil Drench,3.0 g/L
+Tomato,Whitefly,Bacillus thuringiensis,Soil Application,2.0 ml/L
+Tomato,Armyworm,Chlorpyrifos,Soil Application,1.0 g/L
+Tomato,Whitefly,Spinosad,Soil Application,2.0 ml/L
+Tomato,Potato Beetle,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Tomato,Bollworm,Imidacloprid,Soil Drench,3.0 g/L
+Tomato,Stem Borer,Bacillus thuringiensis,Soil Drench,2.0 ml/L
+Tomato,Soybean Looper,Thiamethoxam,Soil Application,2.0 ml/L
+Tomato,Potato Beetle,Imidacloprid,Soil Drench,0.3 ml/L
+Tomato,Peanut Bud Necrosis Virus,Thiamethoxam,Soil Application,1.5 ml/L
+Tomato,Stem Borer,Fipronil,Spray,0.8 ml/L
+Tomato,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Application,1.0 ml/L
+Tomato,Potato Beetle,Lambda-cyhalothrin,Soil Drench,0.3 ml/L
+Tomato,Whitefly,Pyrethrin,Spray,0.8 ml/L
+Tomato,Stem Borer,Bacillus thuringiensis,Soil Drench,2.0 ml/L
+Tomato,Whitefly,Azadirachtin (Neem Oil),Soil Drench,1.0 ml/L
+Tomato,Armyworm,Pyrethrin,Spray,0.8 ml/L
+Tomato,Potato Beetle,Chlorpyrifos,Soil Drench,0.3 ml/L
+Tomato,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Tomato,Aphids,Fipronil,Soil Application,2.0 ml/L
+Tomato,Soybean Looper,Cartap Hydrochloride,Spray,0.8 ml/L
+Tomato,Stem Borer,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Tomato,Bollworm,Imidacloprid,Soil Drench,2.0 ml/L
+Tomato,Aphids,Bacillus thuringiensis,Soil Application,1.0 g/L
+Tomato,Soybean Looper,Pyrethrin,Spray,2.0 ml/L
+Tomato,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Tomato,Whitefly,Fipronil,Soil Drench,1.0 g/L
+Tomato,Soybean Looper,Pyrethrin,Spray,2.0 ml/L
+Tomato,Barley Yellow Dwarf Virus,Spinosad,Soil Drench,0.3 ml/L
+Tomato,Armyworm,Thiamethoxam,Spray,2.0 ml/L
+Tomato,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Drench,1.5 g/L
+Tomato,Whitefly,Imidacloprid,Soil Drench,0.3 ml/L
+Tomato,Potato Beetle,Imidacloprid,Soil Application,3.0 g/L
+Tomato,Whitefly,Spinosad,Soil Application,2.0 ml/L
+Tomato,Barley Yellow Dwarf Virus,Spinosad,Soil Drench,0.3 ml/L
+Tomato,Whitefly,Fipronil,Soil Drench,1.0 g/L
+Tomato,Armyworm,Imidacloprid,Spray,2.0 ml/L
+Tomato,Whitefly,Fipronil,Spray,1.5 ml/L
+Tomato,Stem Borer,Imidacloprid,Spray,2.5 ml/L
+Tomato,Armyworm,Spinosad,Spray,1.0 ml/L
+Tomato,Sugarcane Borer,Pyrethrin,Soil Drench,2.0 ml/L
+Tomato,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Tomato,Aphids,Bacillus thuringiensis,Soil Application,1.0 g/L
+Tomato,Aphids,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Tomato,Whitefly,Imidacloprid,Soil Drench,0.3 ml/L
+Tomato,Soybean Looper,Thiamethoxam,Soil Application,2.0 ml/L
+Tomato,Aphids,Spinosad,Soil Drench,1.5 ml/L
+Tomato,Aphids,Spinosad,Spray,3.0 g/L
+Tomato,Aphids,Lambda-cyhalothrin,Soil Drench,2.0 ml/L
+Tomato,Whitefly,Fipronil,Spray,1.5 ml/L
+Tomato,Potato Beetle,Lambda-cyhalothrin,Soil Drench,0.3 ml/L
+Tomato,Armyworm,Thiamethoxam,Spray,2.0 ml/L
+Tomato,Aphids,Bacillus thuringiensis,Soil Application,1.0 g/L
+Tomato,Whitefly,Fipronil,Soil Drench,1.0 g/L
+Tomato,Potato Beetle,Spinosad,Spray,2.0 ml/L
+Tomato,Whitefly,Fipronil,Soil Application,2.5 ml/L
+Tomato,Soybean Looper,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Tomato,Potato Beetle,Imidacloprid,Soil Application,3.0 g/L
+Tomato,Sugarcane Borer,Pyrethrin,Soil Drench,2.0 ml/L
+Tomato,Aphids,Cartap Hydrochloride,Soil Drench,2.0 ml/L
+Tomato,Soybean Looper,Cartap Hydrochloride,Spray,0.8 ml/L
+Tomato,Potato Beetle,Spinosad,Spray,2.0 ml/L
+Tomato,Potato Beetle,Imidacloprid,Soil Application,3.0 g/L
+Tomato,Whitefly,Imidacloprid,Soil Drench,0.3 ml/L
+Tomato,Potato Beetle,Chlorpyrifos,Soil Drench,0.3 ml/L
+Tomato,Aphids,Bacillus thuringiensis,Soil Application,1.0 g/L
+Tomato,Whitefly,Fipronil,Spray,1.5 ml/L
+Tomato,Whitefly,Pyrethrin,Spray,1.0 g/L
+Tomato,Potato Beetle,Imidacloprid,Soil Drench,0.3 ml/L
+Tomato,Sugarcane Borer,Lambda-cyhalothrin,Soil Application,1.0 g/L
+Tomato,Soybean Looper,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Tomato,Whitefly,Imidacloprid,Soil Drench,0.3 ml/L
+Tomato,Whitefly,Fipronil,Soil Application,2.5 ml/L
+Tomato,Stem Borer,Fipronil,Spray,0.8 ml/L
+Tomato,Potato Beetle,Fipronil,Spray,0.8 ml/L
+Tomato,Armyworm,Spinosad,Spray,1.0 ml/L
+Tomato,Whitefly,Fipronil,Soil Application,2.5 ml/L
+Tomato,Barley Yellow Dwarf Virus,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Tomato,Potato Beetle,Lambda-cyhalothrin,Soil Drench,0.3 ml/L
+Tomato,Whitefly,Spinosad,Spray,2.0 ml/L
+Tomato,Potato Beetle,Lambda-cyhalothrin,Spray,2.5 ml/L
+Tomato,Armyworm,Imidacloprid,Spray,2.0 ml/L
+Tomato,Whitefly,Fipronil,Soil Application,2.5 ml/L
+Tomato,Peanut Bud Necrosis Virus,Thiamethoxam,Soil Application,1.0 g/L
+Tomato,Soybean Looper,Cartap Hydrochloride,Soil Application,2.0 ml/L
+Tomato,Barley Yellow Dwarf Virus,Lambda-cyhalothrin,Spray,2.5 ml/L
+Tomato,Potato Beetle,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Tomato,Stem Borer,Azadirachtin (Neem Oil),Soil Application,2.0 ml/L
+Tomato,Stem Borer,Fipronil,Spray,2.0 ml/L
+Tomato,Peanut Bud Necrosis Virus,Chlorpyrifos,Spray,0.3 ml/L
+Tomato,Whitefly,Azadirachtin (Neem Oil),Soil Drench,1.0 ml/L
+Tomato,Bollworm,Azadirachtin (Neem Oil),Soil Application,1.0 g/L
+Tomato,Potato Beetle,Spinosad,Soil Application,2.0 ml/L
+Tomato,Barley Yellow Dwarf Virus,Spinosad,Soil Drench,0.3 ml/L
+Tomato,Potato Beetle,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Tomato,Sugarcane Borer,Pyrethrin,Soil Drench,2.0 ml/L
+Tomato,Whitefly,Pyrethrin,Spray,1.0 g/L
+Tomato,Potato Beetle,Chlorpyrifos,Soil Drench,2.0 ml/L
+Tomato,Armyworm,Thiamethoxam,Soil Drench,2.0 ml/L
+Tomato,Soybean Looper,Thiamethoxam,Soil Application,2.0 ml/L
+Tomato,Whitefly,Fipronil,Soil Drench,1.0 g/L
+Tomato,Whitefly,Fipronil,Soil Application,2.5 ml/L
+Tomato,Whitefly,Fipronil,Soil Drench,1.0 g/L
+Tomato,Sugarcane Borer,Azadirachtin (Neem Oil),Soil Application,0.8 ml/L
+Tomato,Barley Yellow Dwarf Virus,Cartap Hydrochloride,Soil Drench,1.5 g/L
+Tomato,Potato Beetle,Lambda-cyhalothrin,Spray,2.5 ml/L
+Tomato,Aphids,Spinosad,Spray,3.0 g/L
+Tomato,Peanut Bud Necrosis Virus,Thiamethoxam,Soil Application,1.0 g/L
+Tomato,Potato Beetle,Azadirachtin (Neem Oil),Spray,2.0 ml/L
+Tomato,Aphids,Pyrethrin,Spray,2.5 ml/L
+Tomato,Stem Borer,Fipronil,Spray,2.0 ml/L
+Tomato,Peanut Bud Necrosis Virus,Azadirachtin (Neem Oil),Spray,3.0 g/L
+Tomato,Whitefly,Fipronil,Soil Application,2.5 ml/L
+Tomato,Soybean Looper,Thiamethoxam,Soil Application,2.0 ml/L
+Tomato,Stem Borer,Fipronil,Spray,2.0 ml/L
+Tomato,Whitefly,Fipronil,Soil Drench,1.0 g/L
+Wheat,Potato Beetle,Spinosad,Soil Application,3.0 g/L
+Wheat,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Soil Application,2.0 ml/L
+Wheat,Aphids,Pyrethrin,Soil Drench,0.8 ml/L
+Wheat,Peanut Bud Necrosis Virus,Lambda-cyhalothrin,Spray,2.0 ml/L
+Wheat,Bollworm,Imidacloprid,Spray,2.0 ml/L
+Wheat,Sugarcane Borer,Pyrethrin,Soil Drench,2.0 ml/L
+Wheat,Barley Yellow Dwarf Virus,Fipronil,Spray,1.0 ml/L
+Wheat,Potato Beetle,Lambda-cyhalothrin,Soil Application,3.0 g/L
+Wheat,Potato Beetle,Lambda-cyhalothrin,Soil Application,3.0 g/L
+Wheat,Bollworm,Thiamethoxam,Spray,2.0 ml/L
+Wheat,Barley Yellow Dwarf Virus,Thiamethoxam,Spray,0.8 ml/L
+Wheat,Peanut Bud Necrosis Virus,Pyrethrin,Soil Drench,0.8 ml/L
+Wheat,Aphids,Pyrethrin,Soil Drench,0.8 ml/L
+Wheat,Soybean Looper,Fipronil,Soil Application,1.0 g/L
+Wheat,Potato Beetle,Pyrethrin,Soil Application,1.0 ml/L
+Wheat,Whitefly,Chlorpyrifos,Soil Application,0.3 ml/L
+Wheat,Barley Yellow Dwarf Virus,Thiamethoxam,Spray,0.8 ml/L
+Wheat,Bollworm,Thiamethoxam,Spray,2.0 ml/L
+Wheat,Aphids,Spinosad,Soil Application,2.5 ml/L
+Wheat,Stem Borer,Imidacloprid,Soil Drench,0.8 ml/L
+Wheat,Stem Borer,Imidacloprid,Spray,0.3 ml/L
+Wheat,Bollworm,Fipronil,Soil Application,2.0 ml/L
+Wheat,Whitefly,Imidacloprid,Soil Drench,0.8 ml/L
+Wheat,Whitefly,Chlorpyrifos,Soil Application,0.3 ml/L
+Wheat,Peanut Bud Necrosis Virus,Fipronil,Spray,2.5 ml/L
+Wheat,Whitefly,Spinosad,Soil Application,0.3 ml/L
+Wheat,Soybean Looper,Fipronil,Soil Application,1.0 g/L
+Wheat,Whitefly,Spinosad,Soil Application,2.0 ml/L
+Wheat,Stem Borer,Lambda-cyhalothrin,Soil Application,0.8 ml/L
+Wheat,Potato Beetle,Cartap Hydrochloride,Soil Application,1.0 g/L
+Wheat,Soybean Looper,Bacillus thuringiensis,Soil Application,1.5 g/L
+Wheat,Armyworm,Pyrethrin,Soil Application,3.0 g/L
+Wheat,Potato Beetle,Bacillus thuringiensis,Soil Application,1.0 ml/L
+Wheat,Soybean Looper,Thiamethoxam,Spray,0.3 ml/L
+Wheat,Stem Borer,Pyrethrin,Soil Application,1.5 g/L
+Wheat,Stem Borer,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Wheat,Soybean Looper,Chlorpyrifos,Soil Application,0.3 ml/L
+Wheat,Barley Yellow Dwarf Virus,Fipronil,Soil Application,1.0 g/L
+Wheat,Soybean Looper,Spinosad,Soil Drench,2.5 ml/L
+Wheat,Stem Borer,Chlorpyrifos,Spray,2.5 ml/L
+Wheat,Potato Beetle,Bacillus thuringiensis,Soil Application,1.0 ml/L
+Wheat,Sugarcane Borer,Pyrethrin,Soil Drench,2.0 ml/L
+Wheat,Whitefly,Lambda-cyhalothrin,Soil Application,1.5 g/L
+Wheat,Barley Yellow Dwarf Virus,Pyrethrin,Soil Application,0.8 ml/L
+Wheat,Barley Yellow Dwarf Virus,Thiamethoxam,Soil Drench,0.3 ml/L
+Wheat,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,3.0 g/L
+Wheat,Aphids,Cartap Hydrochloride,Soil Drench,1.0 ml/L
+Wheat,Armyworm,Lambda-cyhalothrin,Soil Application,1.5 ml/L
+Wheat,Aphids,Spinosad,Soil Application,2.5 ml/L
+Wheat,Stem Borer,Lambda-cyhalothrin,Soil Application,0.8 ml/L
+Wheat,Stem Borer,Spinosad,Soil Drench,1.0 ml/L
+Wheat,Potato Beetle,Lambda-cyhalothrin,Soil Drench,1.0 g/L
+Wheat,Bollworm,Lambda-cyhalothrin,Spray,1.5 g/L
+Wheat,Potato Beetle,Pyrethrin,Soil Application,1.0 ml/L
+Wheat,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,3.0 g/L
+Wheat,Potato Beetle,Spinosad,Spray,1.5 g/L
+Wheat,Stem Borer,Pyrethrin,Soil Application,1.5 g/L
+Wheat,Soybean Looper,Chlorpyrifos,Soil Application,0.3 ml/L
+Wheat,Potato Beetle,Pyrethrin,Soil Drench,1.0 g/L
+Wheat,Armyworm,Lambda-cyhalothrin,Soil Application,1.5 ml/L
+Wheat,Aphids,Lambda-cyhalothrin,Soil Application,2.0 ml/L
+Wheat,Aphids,Spinosad,Soil Application,2.5 ml/L
+Wheat,Bollworm,Chlorpyrifos,Soil Drench,0.8 ml/L
+Wheat,Soybean Looper,Thiamethoxam,Spray,0.3 ml/L
+Wheat,Whitefly,Thiamethoxam,Soil Application,0.8 ml/L
+Wheat,Sugarcane Borer,Lambda-cyhalothrin,Soil Drench,0.8 ml/L
+Wheat,Soybean Looper,Imidacloprid,Soil Drench,0.8 ml/L
+Wheat,Armyworm,Thiamethoxam,Spray,1.0 g/L
+Wheat,Bollworm,Thiamethoxam,Soil Drench,3.0 g/L
+Wheat,Barley Yellow Dwarf Virus,Imidacloprid,Spray,1.0 ml/L
+Wheat,Potato Beetle,Azadirachtin (Neem Oil),Soil Drench,1.0 g/L
+Wheat,Bollworm,Thiamethoxam,Spray,2.0 ml/L
+Wheat,Sugarcane Borer,Lambda-cyhalothrin,Soil Drench,0.8 ml/L
+Wheat,Potato Beetle,Spinosad,Soil Application,3.0 g/L
+Wheat,Armyworm,Pyrethrin,Soil Application,3.0 g/L
+Wheat,Sugarcane Borer,Spinosad,Soil Drench,1.0 ml/L
+Wheat,Aphids,Cartap Hydrochloride,Soil Application,1.0 ml/L
+Wheat,Potato Beetle,Cartap Hydrochloride,Soil Application,1.0 g/L
+Wheat,Armyworm,Lambda-cyhalothrin,Soil Application,1.5 ml/L
+Wheat,Sugarcane Borer,Spinosad,Soil Drench,1.0 ml/L
+Wheat,Stem Borer,Fipronil,Soil Drench,0.3 ml/L
+Wheat,Armyworm,Lambda-cyhalothrin,Soil Application,1.5 ml/L
+Wheat,Bollworm,Fipronil,Spray,1.0 ml/L
+Wheat,Bollworm,Chlorpyrifos,Soil Drench,0.8 ml/L
+Wheat,Peanut Bud Necrosis Virus,Azadirachtin (Neem Oil),Soil Application,2.5 ml/L
+Wheat,Aphids,Lambda-cyhalothrin,Spray,1.0 ml/L
+Wheat,Potato Beetle,Spinosad,Soil Application,3.0 g/L
+Wheat,Soybean Looper,Thiamethoxam,Spray,1.5 g/L
+Wheat,Stem Borer,Spinosad,Soil Drench,1.0 ml/L
+Wheat,Potato Beetle,Lambda-cyhalothrin,Soil Application,3.0 g/L
+Wheat,Aphids,Pyrethrin,Soil Application,1.0 g/L
+Wheat,Bollworm,Lambda-cyhalothrin,Spray,1.5 g/L
+Wheat,Potato Beetle,Bacillus thuringiensis,Soil Application,1.0 ml/L
+Wheat,Potato Beetle,Cartap Hydrochloride,Soil Application,1.0 g/L
+Wheat,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,3.0 g/L
+Wheat,Barley Yellow Dwarf Virus,Fipronil,Spray,1.0 ml/L
+Wheat,Stem Borer,Fipronil,Spray,2.0 ml/L
+Wheat,Potato Beetle,Lambda-cyhalothrin,Soil Drench,1.0 g/L
+Wheat,Stem Borer,Imidacloprid,Spray,0.3 ml/L
+Wheat,Potato Beetle,Spinosad,Spray,1.5 g/L
+Wheat,Soybean Looper,Chlorpyrifos,Soil Application,0.3 ml/L
+Wheat,Stem Borer,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Wheat,Soybean Looper,Pyrethrin,Soil Drench,3.0 g/L
+Wheat,Stem Borer,Lambda-cyhalothrin,Soil Application,0.8 ml/L
+Wheat,Stem Borer,Spinosad,Soil Drench,1.0 ml/L
+Wheat,Bollworm,Thiamethoxam,Spray,2.0 ml/L
+Wheat,Stem Borer,Cartap Hydrochloride,Spray,2.0 ml/L
+Wheat,Aphids,Pyrethrin,Soil Application,0.3 ml/L
+Wheat,Whitefly,Spinosad,Soil Application,0.3 ml/L
+Wheat,Stem Borer,Pyrethrin,Soil Application,1.5 g/L
+Wheat,Barley Yellow Dwarf Virus,Imidacloprid,Soil Drench,0.3 ml/L
+Wheat,Bollworm,Chlorpyrifos,Soil Drench,0.8 ml/L
+Wheat,Sugarcane Borer,Lambda-cyhalothrin,Soil Drench,0.8 ml/L
+Wheat,Stem Borer,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Wheat,Bollworm,Lambda-cyhalothrin,Spray,1.5 g/L
+Wheat,Peanut Bud Necrosis Virus,Spinosad,Soil Drench,2.5 ml/L
+Wheat,Aphids,Bacillus thuringiensis,Soil Application,2.0 ml/L
+Wheat,Soybean Looper,Chlorpyrifos,Soil Application,0.3 ml/L
+Wheat,Soybean Looper,Thiamethoxam,Spray,0.3 ml/L
+Wheat,Barley Yellow Dwarf Virus,Imidacloprid,Soil Application,3.0 g/L
+Wheat,Bollworm,Fipronil,Spray,1.0 ml/L
+Wheat,Potato Beetle,Spinosad,Soil Application,3.0 g/L
+Wheat,Potato Beetle,Pyrethrin,Soil Application,1.0 ml/L
+Wheat,Potato Beetle,Lambda-cyhalothrin,Soil Application,3.0 g/L
+Wheat,Soybean Looper,Thiamethoxam,Spray,1.5 g/L
+Wheat,Armyworm,Spinosad,Soil Application,1.0 g/L
+Wheat,Stem Borer,Chlorpyrifos,Spray,2.5 ml/L
+Wheat,Stem Borer,Lambda-cyhalothrin,Soil Application,2.5 ml/L
+Wheat,Barley Yellow Dwarf Virus,Thiamethoxam,Soil Drench,0.3 ml/L
+Wheat,Barley Yellow Dwarf Virus,Pyrethrin,Soil Application,0.8 ml/L
+Wheat,Stem Borer,Pyrethrin,Soil Drench,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+apple,Codling Moth,Chlorantraniliprole,Spray,0.3 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+banana,Banana Aphids,Thiamethoxam,Soil Application,1.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+blackgram,Thrips,Fipronil,Spray,2.0 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+chickpea,Helicoverpa,Spinosad,Spray,1.5 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coconut,Red Palm Weevil,Chlorpyrifos,Soil Application,3.0 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+coffee,Coffee Berry Borer,Chlorpyrifos,Soil Drench,1.5 ml/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+grapes,Powdery Mildew,Sulfur,Spray,3.0 g/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+jute,Jute Stem Weevil,Dimethoate,Spray,1.0 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+kidneybeans,Whitefly,Acetamiprid,Spray,0.8 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+lentil,Cutworm,Cypermethrin,Spray,2.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mango,Mango Hopper,Thiamethoxam,Spray,1.0 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mothbeans,Aphids,Imidacloprid,Spray,0.5 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+mungbean,Pod Borer,Spinosad,Spray,2.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+muskmelon,Aphids,Imidacloprid,Soil Drench,1.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+orange,Citrus Psylla,Pyrethrin,Spray,2.0 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+papaya,Mealybug,Imidacloprid,Spray,0.5 ml/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pigeonpeas,Maruca Pod Borer,Thiodicarb,Spray,1.5 g/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+pomegranate,Thrips,Dimethoate,Spray,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L
+watermelon,Leaf Miner,Spinosad,Soil Drench,2.0 ml/L

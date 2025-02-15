@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Crops</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='crops.css') }}">
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            let lang = localStorage.getItem("language") || "en";
+
+            // ✅ Heading Translation
+            let heading = document.getElementById("cropPageHeading");
+            if (heading) {
+                heading.innerText = (lang === "hi") ? "भारतीय फसलों के बारे में अधिक जानें" : "Know More About Indian Crops";
+            }
+
+            // ✅ Crop Names Translation
+            document.querySelectorAll(".crop-item p").forEach(el => {
+                let crop = el.getAttribute("data-crop");
+                let translations = {
+                    "apple": "सेब", "banana": "केला", "blackgram": "काला चना", "chickpeas": "चना",
+                    "coconut": "नारियल", "coffee": "कॉफ़ी", "cotton": "कपास", "grapes": "अंगूर",
+                    "jute": "जूट", "kidneybeans": "राजमा", "lentil": "मसूर", "maize": "मक्का",
+                    "mango": "आम", "mothbeans": "मोठ फलियाँ", "mungbeans": "मूंग", "muskmelon": "खरबूजा",
+                    "orange": "संतरा", "papaya": "पपीता", "pigeonpeas": "अरहर", "pomegranate": "अनार",
+                    "rice": "चावल", "watermelon": "तरबूज", "wheat": "गेहूं"
+                };
+                if (lang === "hi") {
+                    el.textContent = translations[crop] || el.textContent;
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <!-- ✅ Heading ID Added -->
+    <h1 id="cropPageHeading">Know More About Indian <span>Crops</span></h1>
+
+    <div class="crop-container">
+        {% for crop, image in {"apple": "apple.png", "banana": "banana.png", "blackgram": "blackgram.png", "chickpeas": "chickpeas.png", "coconut": "coconut.png", "coffee": "coffee.png", "cotton": "cotton.png", "grapes": "grapes.png", "jute": "jute.png", "kidneybeans": "kidneybeans.png", "lentil": "lentil.png", "maize": "maize.png", "mango": "mango.png", "mothbeans": "mothbeans.png", "mungbeans": "mungbeans.png", "muskmelon": "muskmelon.png", "orange": "orange.png", "papaya": "papaya.png", "pigeonpeas": "pigeonpeas.png", "pomegranate": "pomegranate.png", "rice": "rice.png", "watermelon": "watermelon.png", "wheat": "wheat.png"}.items() %}
+        <div class="crop-item">
+            <a href="{{ url_for('crop_info') }}?crop={{ crop }}">
+                <img src="{{ url_for('static', filename='images/' + image) }}" alt="{{ crop.capitalize() }}">
+            </a>
+            <p data-crop="{{ crop }}">{{ crop.capitalize() }}</p>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- ✅ Language.js Script -->
+    <script src="{{ url_for('static', filename='js/language.js') }}"></script>
+</body>
+</html>

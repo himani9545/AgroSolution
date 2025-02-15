@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="{{ language }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ crop_name }}</title>
+    <style>
+        /* ---- 🌿 Background Styling ---- */
+        body, html {
+            background-image: url("{{ url_for('static', filename='images/image15.png') }}");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            color: white;
+        }
+
+        /* ---- 📦 Main Container ---- */
+        .info-box {
+            background-color: rgba(0, 0, 0, 0.9);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            width: 90%;
+            max-width: 700px;
+            text-align: center;
+            margin: 50px auto;
+        }
+
+        /* ---- 📝 Crop Title ---- */
+        h1 {
+            font-size: 26px;
+            margin-bottom: 15px;
+            text-transform: capitalize;
+        }
+
+        /* ---- 🌾 Crop Image ---- */
+        img {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+            margin: 15px 0;
+            border-radius: 10px;
+            border: 3px solid white;
+        }
+
+        /* ---- 🏷️ Crop Description ---- */
+        .crop-description {
+            text-align: justify;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+
+        /* ---- 🔄 Language Switcher & Buttons ---- */
+        .buttons {
+            margin-top: 20px;
+        }
+
+        .buttons a {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 10px 20px;
+            border: 1px solid white;
+            border-radius: 5px;
+            display: inline-block;
+            margin: 5px;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .buttons a:hover {
+            background-color: white;
+            color: black;
+        }
+
+        /* ---- 📱 Responsive Design ---- */
+        @media screen and (max-width: 768px) {
+            .info-box {
+                width: 95%;
+                padding: 20px;
+            }
+            h1 {
+                font-size: 22px;
+            }
+            .crop-description {
+                font-size: 14px;
+                line-height: 1.5;
+            }
+            .buttons a {
+                font-size: 14px;
+                padding: 8px 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="info-box">
+        <!-- 🌱 Crop Name -->
+        <h1>{{ crop_name }}</h1>
+
+        <!-- 🌾 Crop Image -->
+        <img src="{{ url_for('static', filename='images/' + crop_image) }}" alt="{{ crop_name }}">
+
+        <!-- 📜 Crop Description -->
+        <p class="crop-description">{{ crop_description | safe }}</p>
+
+        <!-- 🌐 Language Switcher -->
+        <div class="buttons">
+            <a href="{{ url_for('set_language', lang='en') }}">English</a>
+            <a href="{{ url_for('set_language', lang='hi') }}">हिंदी</a>
+        </div>
+
+        <!-- 🔙 Back to Home -->
+        <div class="buttons">
+            <a href="{{ url_for('crops') }}">⬅ Back to Home</a>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,524 @@
+Crop,N,P,K,pH,soil_moisture,Recommended Fertilizers,Fertilizer Dosage (kg/ha)
+rice,80,40,40,5.5,30,"Urea, DAP, Muriate of Potash (MOP)",70.4
+maize,80,40,20,5.5,50,"Urea, DAP, Single Super Phosphate",51.33
+chickpea,40,60,80,5.5,60,"Ammonium Sulfate, DAP, MOP",66.0
+kidneybeans,20,60,20,5.5,45,"Urea, Rock Phosphate, Potash",36.67
+pigeonpeas,20,60,20,5.5,45,"Urea, Rock Phosphate, Potash",36.67
+mothbeans,20,40,20,5.5,30,"Urea, DAP, MOP",35.2
+mungbean,20,40,20,5.5,80,"Urea, DAP, MOP",29.33
+blackgram,40,60,20,5.0,60,"Urea, Rock Phosphate, Potash",44.0
+lentil,20,60,20,5.5,90,"Urea, Rock Phosphate, MOP",36.67
+pomegranate,20,10,40,5.5,30,"Ammonium Sulfate, MOP",30.8
+banana,100,75,50,6.5,40,"Urea, DAP, Potash",90.0
+mango,20,20,30,5.0,15,"Ammonium Sulfate, Potash",30.8
+grapes,20,125,200,4.0,60,"Rock Phosphate, MOP",126.5
+watermelon,100,10,50,5.5,70,"Urea, DAP, Potash",58.67
+muskmelon,100,10,50,5.5,30,"Urea, DAP, Potash",70.4
+apple,20,125,200,6.5,50,"Rock Phosphate, MOP",115.0
+orange,20,10,10,4.0,60,"Ammonium Sulfate, Rock Phosphate",14.67
+papaya,50,50,50,6.0,20,"Urea, DAP, Potash",60.0
+coconut,20,10,30,5.0,45,"Ammonium Sulfate, Potash",22.0
+cotton,120,40,20,5.5,70,"Urea, DAP, Potash",66.0
+jute,80,40,40,5.5,20,"Urea, DAP, MOP",70.4
+coffee,100,20,30,5.5,20,"Urea, DAP, Potash",66.0
+wheat,41,0,0,6.0,50,Urea,13.67
+apple,24,125,203,6.416491656,54,"Rock Phosphate, MOP",117.33
+wheat,37,0,1,6.043998663,52,Urea,12.67
+rice,78,42,41,5.508333704,32,"Urea, DAP, Muriate of Potash (MOP)",70.84
+maize,75,39,24,5.443386291,53,"Urea, DAP, Single Super Phosphate",50.6
+kidneybeans,17,55,19,5.524510879,46,"Urea, Rock Phosphate, Potash",33.37
+wheat,44,0,0,5.982613828,48,Urea,16.13
+muskmelon,95,14,48,5.398750425,31,"Urea, DAP, Potash",69.08
+lentil,20,61,18,5.332341331,92,"Urea, Rock Phosphate, MOP",36.3
+grapes,17,123,201,3.869746572,55,"Rock Phosphate, MOP",125.03
+watermelon,103,13,47,5.580143132,67,"Urea, DAP, Potash",59.77
+pomegranate,23,8,35,5.307230145,29,"Ammonium Sulfate, MOP",29.04
+kidneybeans,15,55,19,5.392074107,42,"Urea, Rock Phosphate, Potash",32.63
+maize,77,36,23,5.457876587,50,"Urea, DAP, Single Super Phosphate",49.87
+grapes,24,126,203,4.051157766,58,"Rock Phosphate, MOP",129.43
+pigeonpeas,20,59,15,5.631147602,44,"Urea, Rock Phosphate, Potash",34.47
+jute,84,39,41,5.47132579,19,"Urea, DAP, MOP",72.16
+papaya,49,45,48,5.870132108,24,"Urea, DAP, Potash",62.48
+coffee,95,18,32,5.570867337,17,"Urea, DAP, Potash",63.8
+watermelon,104,14,46,5.404277811,71,"Urea, DAP, Potash",60.13
+cotton,121,43,17,5.341249548,65,"Urea, DAP, Potash",66.37
+banana,99,73,49,6.616631617,43,"Urea, DAP, Potash",73.67
+apple,16,129,196,6.332539512,49,"Rock Phosphate, MOP",113.67
+jute,81,37,36,5.487464257,24,"Urea, DAP, MOP",67.76
+papaya,49,50,49,6.197185918,19,"Urea, DAP, Potash",59.2
+blackgram,42,59,22,4.867871962,58,"Urea, Rock Phosphate, Potash",45.1
+pomegranate,19,11,42,5.450585347,25,"Ammonium Sulfate, MOP",31.68
+apple,19,124,204,6.639858956,45,"Rock Phosphate, MOP",115.67
+orange,15,10,9,3.835363289,63,"Ammonium Sulfate, Rock Phosphate",12.47
+rice,78,43,40,5.480364179,31,"Urea, DAP, Muriate of Potash (MOP)",70.84
+mungbean,23,41,21,5.533906442,80,"Urea, DAP, MOP",31.17
+mango,20,15,29,4.984311507,19,"Ammonium Sulfate, Potash",28.16
+coffee,102,20,34,5.603982164,22,"Urea, DAP, Potash",68.64
+blackgram,43,55,21,4.835681731,63,"Urea, Rock Phosphate, Potash",43.63
+coconut,24,6,32,4.999299079,45,"Ammonium Sulfate, Potash",22.73
+coffee,96,18,28,5.302120003,20,"Urea, DAP, Potash",62.48
+mungbean,15,44,20,5.532495289,78,"Urea, DAP, MOP",28.97
+watermelon,102,10,51,5.61771578,65,"Urea, DAP, Potash",59.77
+orange,17,14,8,3.926478633,64,"Ammonium Sulfate, Rock Phosphate",14.3
+pomegranate,21,7,42,5.577487043,28,"Ammonium Sulfate, MOP",30.8
+apple,20,125,198,6.482800088,48,"Rock Phosphate, MOP",114.33
+rice,82,41,44,5.678913336,34,"Urea, DAP, Muriate of Potash (MOP)",73.48
+pomegranate,20,7,42,5.636175853,31,"Ammonium Sulfate, MOP",30.36
+banana,100,71,51,6.438781281,36,"Urea, DAP, Potash",88.8
+muskmelon,102,5,51,5.538154007,31,"Urea, DAP, Potash",69.52
+pomegranate,21,7,44,5.408297869,26,"Ammonium Sulfate, MOP",31.68
+watermelon,99,11,46,5.305200769,71,"Urea, DAP, Potash",57.2
+lentil,23,56,19,5.417786304,88,"Urea, Rock Phosphate, MOP",35.93
+banana,96,76,49,6.307356271,36,"Urea, DAP, Potash",88.4
+muskmelon,103,9,51,5.529317751,25,"Urea, DAP, Potash",71.72
+lentil,18,58,17,5.538031172,85,"Urea, Rock Phosphate, MOP",34.1
+kidneybeans,20,56,17,5.425838623,40,"Urea, Rock Phosphate, Potash",40.92
+coffee,103,24,34,5.535305503,15,"Urea, DAP, Potash",70.84
+pomegranate,22,7,36,5.653999343,32,"Ammonium Sulfate, MOP",28.6
+watermelon,96,7,51,5.303794173,65,"Urea, DAP, Potash",56.47
+banana,103,70,53,6.571858913,44,"Urea, DAP, Potash",75.33
+muskmelon,104,6,53,5.388194484,25,"Urea, DAP, Potash",71.72
+mungbean,22,43,23,5.657968576,79,"Urea, DAP, MOP",32.27
+apple,20,124,199,6.696590134,46,"Rock Phosphate, MOP",114.33
+papaya,53,49,54,5.842333638,20,"Urea, DAP, Potash",68.64
+blackgram,42,56,22,5.127471768,60,"Urea, Rock Phosphate, Potash",44.0
+chickpea,44,62,76,5.648614722,58,"Ammonium Sulfate, DAP, MOP",66.73
+grapes,23,126,201,4.130368306,58,"Rock Phosphate, MOP",128.33
+pomegranate,20,6,37,5.312453633,33,"Ammonium Sulfate, MOP",27.72
+cotton,118,43,21,5.350074317,68,"Urea, DAP, Potash",66.73
+mungbean,22,40,17,5.341972071,75,"Urea, DAP, MOP",28.97
+mungbean,21,36,20,5.527016339,84,"Urea, DAP, MOP",28.23
+cotton,118,41,18,5.521200581,70,"Urea, DAP, Potash",64.9
+maize,77,36,20,5.587680711,50,"Urea, DAP, Single Super Phosphate",48.77
+papaya,47,53,48,5.811757778,16,"Urea, DAP, Potash",65.12
+lentil,24,56,21,5.46521247,90,"Urea, Rock Phosphate, MOP",37.03
+cotton,124,37,20,5.367903162,74,"Urea, DAP, Potash",66.37
+maize,80,38,16,5.694677192,53,"Urea, DAP, Single Super Phosphate",49.13
+coconut,23,11,32,5.006238411,41,"Ammonium Sulfate, Potash",24.2
+orange,24,14,6,3.897658916,64,"Ammonium Sulfate, Rock Phosphate",16.13
+grapes,23,124,203,3.843643853,56,"Rock Phosphate, MOP",128.33
+jute,84,41,39,5.452167882,23,"Urea, DAP, MOP",72.16
+grapes,23,124,196,4.010649519,58,"Rock Phosphate, MOP",125.77
+maize,78,39,20,5.377823329,48,"Urea, DAP, Single Super Phosphate",50.23
+pigeonpeas,21,62,15,5.526924888,49,"Urea, Rock Phosphate, Potash",35.93
+papaya,52,54,53,6.135944521,22,"Urea, DAP, Potash",63.6
+muskmelon,101,9,45,5.371378386,29,"Urea, DAP, Potash",68.2
+mothbeans,21,42,17,5.541287764,30,"Urea, DAP, MOP",35.2
+wheat,40,0,2,6.152031635,46,Urea,14.0
+lentil,23,61,24,5.33867058,93,"Urea, Rock Phosphate, MOP",39.6
+banana,98,75,50,6.335649773,41,"Urea, DAP, Potash",74.33
+pomegranate,21,14,38,5.649334665,30,"Ammonium Sulfate, MOP",32.12
+orange,16,6,7,3.938439891,58,"Ammonium Sulfate, Rock Phosphate",10.63
+coffee,98,23,28,5.331986158,18,"Urea, DAP, Potash",65.56
+kidneybeans,17,61,15,5.503768851,46,"Urea, Rock Phosphate, Potash",34.1
+rice,79,40,40,5.403925283,34,"Urea, DAP, Muriate of Potash (MOP)",69.96
+watermelon,104,8,46,5.429870371,66,"Urea, DAP, Potash",57.93
+coconut,22,9,31,5.063741569,45,"Ammonium Sulfate, Potash",22.73
+mothbeans,24,38,18,5.609861412,31,"Urea, DAP, MOP",35.2
+kidneybeans,23,63,23,5.512120853,41,"Urea, Rock Phosphate, Potash",39.97
+apple,24,128,196,6.677230335,48,"Rock Phosphate, MOP",116.0
+apple,23,125,196,6.343177486,49,"Rock Phosphate, MOP",114.67
+lentil,19,62,24,5.52321693,92,"Urea, Rock Phosphate, MOP",38.5
+mothbeans,18,38,20,5.639219116,34,"Urea, DAP, MOP",33.44
+jute,84,39,40,5.465048736,22,"Urea, DAP, MOP",71.72
+muskmelon,96,6,47,5.407928288,27,"Urea, DAP, Potash",65.56
+blackgram,43,60,15,4.968499221,58,"Urea, Rock Phosphate, Potash",43.27
+coconut,20,10,25,5.171846769,42,"Ammonium Sulfate, Potash",20.17
+mango,20,23,30,4.890089481,18,"Ammonium Sulfate, Potash",32.12
+apple,16,129,203,6.438368179,46,"Rock Phosphate, MOP",116.0
+wheat,40,2,0,5.985572995,53,Urea,15.4
+orange,15,6,10,3.890458821,56,"Ammonium Sulfate, Rock Phosphate",11.37
+cotton,115,41,19,5.365882541,68,"Urea, DAP, Potash",64.17
+pigeonpeas,21,58,21,5.628841264,41,"Urea, Rock Phosphate, Potash",36.67
+mothbeans,16,41,17,5.445240295,26,"Urea, DAP, MOP",32.56
+mungbean,15,41,19,5.567168,76,"Urea, DAP, MOP",27.5
+blackgram,36,63,19,4.901728792,60,"Urea, Rock Phosphate, Potash",43.27
+coffee,97,15,28,5.595717894,16,"Urea, DAP, Potash",61.6
+grapes,19,123,198,4.148481793,61,"Rock Phosphate, MOP",124.67
+watermelon,98,5,53,5.468577617,74,"Urea, DAP, Potash",57.2
+orange,23,5,12,3.913531379,59,"Ammonium Sulfate, Rock Phosphate",14.67
+mango,19,19,29,4.9009229,14,"Ammonium Sulfate, Potash",29.48
+pigeonpeas,22,59,17,5.478098445,48,"Urea, Rock Phosphate, Potash",35.93
+cotton,120,44,22,5.395542664,74,"Urea, DAP, Potash",68.2
+mungbean,19,39,15,5.387403934,84,"Urea, DAP, MOP",26.77
+maize,75,42,17,5.46440843,52,"Urea, DAP, Single Super Phosphate",49.13
+papaya,45,48,46,5.836913917,22,"Urea, DAP, Potash",61.16
+pigeonpeas,20,59,16,5.511996609,42,"Urea, Rock Phosphate, Potash",34.83
+cotton,116,38,17,5.331045858,73,"Urea, DAP, Potash",62.7
+pigeonpeas,18,59,22,5.604762728,43,"Urea, Rock Phosphate, Potash",36.3
+cotton,119,42,22,5.502182047,68,"Urea, DAP, Potash",67.1
+lentil,18,55,20,5.516563043,89,"Urea, Rock Phosphate, MOP",34.1
+apple,16,123,197,6.612955332,47,"Rock Phosphate, MOP",112.0
+wheat,42,0,0,6.072302357,53,Urea,14.0
+maize,76,35,17,5.657781023,46,"Urea, DAP, Single Super Phosphate",46.93
+maize,81,36,20,5.575088817,47,"Urea, DAP, Single Super Phosphate",50.23
+grapes,15,124,202,4.174836411,63,"Rock Phosphate, MOP",125.03
+papaya,47,50,46,5.83074483,21,"Urea, DAP, Potash",62.92
+orange,15,5,13,3.887709585,59,"Ammonium Sulfate, Rock Phosphate",12.1
+banana,102,71,51,6.363449658,36,"Urea, DAP, Potash",89.6
+chickpea,43,63,75,5.35197197,63,"Ammonium Sulfate, DAP, MOP",66.37
+watermelon,102,11,54,5.35564634,69,"Urea, DAP, Potash",61.23
+blackgram,41,63,17,4.983079842,56,"Urea, Rock Phosphate, Potash",44.37
+jute,76,43,42,5.672322919,18,"Urea, DAP, MOP",70.84
+wheat,40,0,2,6.135306144,45,Urea,14.0
+pigeonpeas,15,62,24,5.642851824,45,"Urea, Rock Phosphate, Potash",37.03
+coconut,18,7,33,5.018785301,47,"Ammonium Sulfate, Potash",21.27
+mothbeans,20,43,15,5.390152507,31,"Urea, DAP, MOP",34.32
+maize,76,44,15,5.672242722,48,"Urea, DAP, Single Super Phosphate",49.5
+kidneybeans,17,60,22,5.383674186,40,"Urea, Rock Phosphate, Potash",43.56
+coconut,21,10,30,4.805211827,45,"Ammonium Sulfate, Potash",22.37
+watermelon,98,12,46,5.608650764,70,"Urea, DAP, Potash",57.2
+wheat,38,4,0,5.915553976,52,Urea,15.4
+blackgram,36,58,15,4.896159565,64,"Urea, Rock Phosphate, Potash",39.97
+coconut,17,14,27,4.912998426,46,"Ammonium Sulfate, Potash",21.27
+banana,97,74,45,6.463764829,42,"Urea, DAP, Potash",72.0
+orange,20,10,9,4.08925131,62,"Ammonium Sulfate, Rock Phosphate",14.3
+banana,103,75,48,6.693943361,42,"Urea, DAP, Potash",75.33
+watermelon,99,9,50,5.612292741,73,"Urea, DAP, Potash",57.93
+coffee,103,20,30,5.566058478,19,"Urea, DAP, Potash",67.32
+blackgram,35,56,21,4.893989362,57,"Urea, Rock Phosphate, Potash",41.07
+papaya,50,47,53,6.118672559,21,"Urea, DAP, Potash",60.0
+coffee,100,22,25,5.41430333,23,"Urea, DAP, Potash",64.68
+lentil,24,63,23,5.304592264,94,"Urea, Rock Phosphate, MOP",40.33
+blackgram,40,64,21,4.830791787,60,"Urea, Rock Phosphate, Potash",45.83
+mungbean,16,38,15,5.346826417,83,"Urea, DAP, MOP",25.3
+mothbeans,23,44,20,5.690802782,25,"Urea, DAP, MOP",38.28
+mango,21,15,29,5.150988019,13,"Ammonium Sulfate, Potash",28.6
+kidneybeans,18,62,17,5.546713443,40,"Urea, Rock Phosphate, Potash",42.68
+muskmelon,96,14,50,5.471040533,28,"Urea, DAP, Potash",70.4
+apple,23,120,200,6.363796905,49,"Rock Phosphate, MOP",114.33
+banana,104,73,52,6.615717139,41,"Urea, DAP, Potash",76.33
+muskmelon,101,5,51,5.484737393,33,"Urea, DAP, Potash",69.08
+papaya,45,45,54,6.152664993,24,"Urea, DAP, Potash",57.6
+jute,75,35,37,5.571591397,22,"Urea, DAP, MOP",64.68
+mothbeans,24,35,21,5.467708664,25,"Urea, DAP, MOP",35.2
+cotton,117,37,16,5.461827463,67,"Urea, DAP, Potash",62.33
+chickpea,36,60,78,5.698872942,64,"Ammonium Sulfate, DAP, MOP",63.8
+mothbeans,23,38,22,5.470428391,34,"Urea, DAP, MOP",36.52
+watermelon,104,9,49,5.55295653,74,"Urea, DAP, Potash",59.4
+pigeonpeas,16,55,20,5.51330056,42,"Urea, Rock Phosphate, Potash",33.37
+coffee,102,15,29,5.40383058,20,"Urea, DAP, Potash",64.24
+wheat,41,0,0,6.161237491,54,Urea,13.67
+lentil,24,57,17,5.549845619,89,"Urea, Rock Phosphate, MOP",35.93
+watermelon,96,8,50,5.621765624,68,"Urea, DAP, Potash",56.47
+kidneybeans,15,62,20,5.482068797,40,"Urea, Rock Phosphate, Potash",42.68
+grapes,15,125,196,4.168523005,64,"Rock Phosphate, MOP",123.2
+mothbeans,19,44,15,5.549052213,31,"Urea, DAP, MOP",34.32
+apple,22,129,198,6.475382686,48,"Rock Phosphate, MOP",116.33
+mothbeans,18,36,20,5.645863569,32,"Urea, DAP, MOP",32.56
+kidneybeans,22,56,23,5.376290395,48,"Urea, Rock Phosphate, Potash",37.03
+mothbeans,20,37,21,5.34680469,26,"Urea, DAP, MOP",34.32
+banana,100,77,49,6.411457225,37,"Urea, DAP, Potash",90.4
+mungbean,24,38,21,5.53557323,78,"Urea, DAP, MOP",30.43
+muskmelon,101,9,45,5.609006514,31,"Urea, DAP, Potash",68.2
+apple,19,126,198,6.411388292,53,"Rock Phosphate, MOP",114.33
+pigeonpeas,17,61,15,5.38431258,49,"Urea, Rock Phosphate, Potash",34.1
+mungbean,17,41,15,5.561353399,82,"Urea, DAP, MOP",26.77
+apple,22,127,195,6.335595886,52,"Rock Phosphate, MOP",114.67
+wheat,45,3,4,6.059006586,52,Urea,17.33
+rice,81,35,40,5.376243933,27,"Urea, DAP, Muriate of Potash (MOP)",68.64
+wheat,39,0,0,6.128392407,50,Urea,13.0
+maize,76,35,22,5.312977378,51,"Urea, DAP, Single Super Phosphate",48.77
+orange,20,10,7,3.940327644,62,"Ammonium Sulfate, Rock Phosphate",13.57
+pomegranate,24,5,41,5.512628861,34,"Ammonium Sulfate, MOP",30.8
+blackgram,44,62,22,5.044732408,55,"Urea, Rock Phosphate, Potash",46.93
+lentil,16,62,21,5.673721646,87,"Urea, Rock Phosphate, MOP",36.3
+kidneybeans,20,64,16,5.399801232,49,"Urea, Rock Phosphate, Potash",36.67
+mungbean,20,41,24,5.31030784,81,"Urea, DAP, MOP",31.17
+apple,24,126,203,6.320956518,47,"Rock Phosphate, MOP",117.67
+blackgram,35,57,16,5.143182036,64,"Urea, Rock Phosphate, Potash",39.6
+rice,81,41,42,5.337278448,25,"Urea, DAP, Muriate of Potash (MOP)",72.16
+maize,78,38,17,5.386500211,49,"Urea, DAP, Single Super Phosphate",48.77
+rice,83,41,37,5.464521589,30,"Urea, DAP, Muriate of Potash (MOP)",70.84
+chickpea,41,58,77,5.367624711,57,"Ammonium Sulfate, DAP, MOP",64.53
+mothbeans,16,35,15,5.496892926,25,"Urea, DAP, MOP",29.04
+orange,20,8,10,3.857358148,64,"Ammonium Sulfate, Rock Phosphate",13.93
+chickpea,44,63,84,5.332639488,56,"Ammonium Sulfate, DAP, MOP",70.03
+coconut,24,10,32,5.140637728,43,"Ammonium Sulfate, Potash",24.2
+muskmelon,101,11,45,5.632607333,26,"Urea, DAP, Potash",69.08
+maize,80,43,20,5.566507145,49,"Urea, DAP, Single Super Phosphate",52.43
+pigeonpeas,15,56,18,5.572876676,42,"Urea, Rock Phosphate, Potash",32.63
+muskmelon,98,9,50,5.393016533,32,"Urea, DAP, Potash",69.08
+rice,76,37,40,5.400924771,30,"Urea, DAP, Muriate of Potash (MOP)",67.32
+pigeonpeas,19,62,23,5.69007199,45,"Urea, Rock Phosphate, Potash",38.13
+apple,17,120,198,6.366421009,47,"Rock Phosphate, MOP",111.67
+mango,15,16,25,4.860572926,19,"Ammonium Sulfate, Potash",24.64
+coffee,102,22,27,5.41818717,18,"Urea, DAP, Potash",66.44
+jute,79,41,35,5.429239881,24,"Urea, DAP, MOP",68.2
+papaya,49,51,45,6.026757118,19,"Urea, DAP, Potash",58.0
+lentil,18,55,16,5.619913346,90,"Urea, Rock Phosphate, MOP",32.63
+kidneybeans,21,64,21,5.476733482,42,"Urea, Rock Phosphate, Potash",38.87
+coffee,102,21,27,5.651213405,19,"Urea, DAP, Potash",66.0
+cotton,123,38,23,5.323642328,70,"Urea, DAP, Potash",67.47
+orange,16,7,14,4.03974389,62,"Ammonium Sulfate, Rock Phosphate",13.57
+rice,80,42,43,5.552286978,31,"Urea, DAP, Muriate of Potash (MOP)",72.6
+cotton,122,41,21,5.528715726,74,"Urea, DAP, Potash",67.47
+wheat,38,2,0,5.941932742,46,Urea,14.67
+chickpea,36,63,80,5.663206036,60,"Ammonium Sulfate, DAP, MOP",65.63
+wheat,44,0,0,6.156263382,46,Urea,14.67
+grapes,23,126,204,4.109068395,63,"Rock Phosphate, MOP",129.43
+mothbeans,16,38,24,5.594367181,33,"Urea, DAP, MOP",34.32
+coconut,21,9,31,4.954375804,49,"Ammonium Sulfate, Potash",22.37
+rice,79,37,40,5.462130144,27,"Urea, DAP, Muriate of Potash (MOP)",68.64
+pomegranate,18,7,44,5.518369413,31,"Ammonium Sulfate, MOP",30.36
+mungbean,22,41,22,5.648500651,80,"Urea, DAP, MOP",31.17
+mango,15,16,28,5.031131189,10,"Ammonium Sulfate, Potash",25.96
+mango,16,18,31,4.908223703,12,"Ammonium Sulfate, Potash",28.6
+papaya,50,46,45,5.980506646,23,"Urea, DAP, Potash",62.04
+blackgram,39,58,17,4.821893083,62,"Urea, Rock Phosphate, Potash",41.8
+chickpea,35,64,83,5.599751607,60,"Ammonium Sulfate, DAP, MOP",66.73
+watermelon,97,11,52,5.42828981,71,"Urea, DAP, Potash",58.67
+muskmelon,95,5,52,5.51503385,31,"Urea, DAP, Potash",66.88
+grapes,23,121,197,4.104354391,55,"Rock Phosphate, MOP",125.03
+orange,19,11,6,3.950821572,58,"Ammonium Sulfate, Rock Phosphate",13.2
+chickpea,36,60,75,5.315924576,64,"Ammonium Sulfate, DAP, MOP",62.7
+orange,17,11,6,3.980112994,63,"Ammonium Sulfate, Rock Phosphate",12.47
+pigeonpeas,15,55,24,5.68709713,49,"Urea, Rock Phosphate, Potash",34.47
+blackgram,43,59,19,4.954722897,62,"Urea, Rock Phosphate, Potash",44.37
+chickpea,44,58,79,5.539749197,55,"Ammonium Sulfate, DAP, MOP",66.37
+coffee,95,16,29,5.37613479,15,"Urea, DAP, Potash",61.6
+papaya,48,52,50,5.958021335,15,"Urea, DAP, Potash",66.0
+grapes,18,123,204,4.182853933,55,"Rock Phosphate, MOP",126.5
+mothbeans,18,37,21,5.592500236,26,"Urea, DAP, MOP",33.44
+papaya,49,51,49,5.872727061,17,"Urea, DAP, Potash",65.56
+apple,21,121,203,6.628656628,45,"Rock Phosphate, MOP",115.0
+banana,96,75,52,6.4313542,43,"Urea, DAP, Potash",74.33
+rice,82,41,41,5.415151871,34,"Urea, DAP, Muriate of Potash (MOP)",72.16
+mungbean,15,36,22,5.600061292,78,"Urea, DAP, MOP",26.77
+coffee,95,19,26,5.546685083,17,"Urea, DAP, Potash",61.6
+chickpea,36,59,77,5.380585568,60,"Ammonium Sulfate, DAP, MOP",63.07
+coffee,96,19,30,5.577967352,19,"Urea, DAP, Potash",63.8
+rice,78,39,40,5.489663178,34,"Urea, DAP, Muriate of Potash (MOP)",69.08
+chickpea,43,59,80,5.553822587,62,"Ammonium Sulfate, DAP, MOP",66.73
+muskmelon,103,10,49,5.45965044,30,"Urea, DAP, Potash",71.28
+orange,23,11,6,4.102476894,58,"Ammonium Sulfate, Rock Phosphate",14.67
+wheat,42,4,0,5.93557791,51,Urea,16.87
+pigeonpeas,18,58,17,5.578866502,45,"Urea, Rock Phosphate, Potash",34.1
+blackgram,41,63,19,4.933091791,56,"Urea, Rock Phosphate, Potash",45.1
+mango,19,15,33,4.818823352,19,"Ammonium Sulfate, Potash",29.48
+pomegranate,22,11,38,5.481129922,30,"Ammonium Sulfate, MOP",31.24
+kidneybeans,19,62,21,5.585152948,45,"Urea, Rock Phosphate, Potash",37.4
+coffee,97,15,29,5.698168605,19,"Urea, DAP, Potash",62.04
+cotton,117,36,15,5.64073837,67,"Urea, DAP, Potash",61.6
+mungbean,21,40,16,5.637919032,76,"Urea, DAP, MOP",28.23
+apple,18,126,198,6.429195873,46,"Rock Phosphate, MOP",114.0
+coffee,104,24,25,5.396640511,23,"Urea, DAP, Potash",67.32
+lentil,15,61,22,5.651076872,94,"Urea, Rock Phosphate, MOP",35.93
+maize,82,40,17,5.40671782,53,"Urea, DAP, Single Super Phosphate",50.97
+mungbean,24,40,21,5.644884569,84,"Urea, DAP, MOP",31.17
+kidneybeans,21,59,22,5.51875247,43,"Urea, Rock Phosphate, Potash",37.4
+jute,81,40,40,5.623182931,20,"Urea, DAP, MOP",70.84
+kidneybeans,16,61,15,5.34128666,45,"Urea, Rock Phosphate, Potash",33.73
+muskmelon,96,9,54,5.502799848,27,"Urea, DAP, Potash",69.96
+watermelon,96,5,47,5.515676432,71,"Urea, DAP, Potash",54.27
+mungbean,15,37,24,5.564724291,84,"Urea, DAP, MOP",27.87
+pomegranate,20,13,42,5.397271992,29,"Ammonium Sulfate, MOP",33.0
+chickpea,41,61,83,5.636139271,60,"Ammonium Sulfate, DAP, MOP",67.83
+coffee,103,23,29,5.547899142,21,"Urea, DAP, Potash",68.2
+mango,19,18,33,4.866601419,16,"Ammonium Sulfate, Potash",30.8
+pigeonpeas,24,57,18,5.479188663,42,"Urea, Rock Phosphate, Potash",36.3
+mothbeans,23,41,18,5.518267466,29,"Urea, DAP, MOP",36.08
+mango,16,23,26,5.014910269,14,"Ammonium Sulfate, Potash",28.6
+grapes,21,129,197,4.119422335,57,"Rock Phosphate, MOP",127.23
+mothbeans,24,43,15,5.40113496,28,"Urea, DAP, MOP",36.08
+orange,24,10,14,4.163825771,58,"Ammonium Sulfate, Rock Phosphate",17.6
+mungbean,17,44,23,5.404264662,83,"Urea, DAP, MOP",30.8
+muskmelon,99,14,54,5.583433418,32,"Urea, DAP, Potash",73.48
+mango,16,24,26,4.857724817,17,"Ammonium Sulfate, Potash",29.04
+coconut,17,6,34,5.100217666,48,"Ammonium Sulfate, Potash",20.9
+kidneybeans,15,61,15,5.495160078,41,"Urea, Rock Phosphate, Potash",33.37
+pigeonpeas,24,60,20,5.485279775,49,"Urea, Rock Phosphate, Potash",38.13
+banana,96,72,54,6.46756945,40,"Urea, DAP, Potash",88.8
+blackgram,43,56,19,4.899314992,62,"Urea, Rock Phosphate, Potash",43.27
+jute,82,44,37,5.560045289,23,"Urea, DAP, MOP",71.72
+maize,82,44,18,5.386243906,51,"Urea, DAP, Single Super Phosphate",52.8
+mothbeans,22,43,17,5.319805052,29,"Urea, DAP, MOP",36.08
+orange,17,7,9,4.033972358,61,"Ammonium Sulfate, Rock Phosphate",12.1
+jute,76,36,38,5.338656234,19,"Urea, DAP, MOP",66.0
+jute,75,41,43,5.44459486,24,"Urea, DAP, MOP",69.96
+pigeonpeas,18,63,18,5.691332323,47,"Urea, Rock Phosphate, Potash",36.3
+muskmelon,103,6,53,5.583718451,30,"Urea, DAP, Potash",71.28
+kidneybeans,15,62,18,5.332775376,47,"Urea, Rock Phosphate, Potash",34.83
+maize,75,41,18,5.591014571,47,"Urea, DAP, Single Super Phosphate",49.13
+rice,82,36,42,5.650373209,29,"Urea, DAP, Muriate of Potash (MOP)",70.4
+coffee,97,20,29,5.361914414,16,"Urea, DAP, Potash",64.24
+mango,20,20,27,5.152963675,11,"Ammonium Sulfate, Potash",29.48
+rice,75,36,43,5.682025275,32,"Urea, DAP, Muriate of Potash (MOP)",67.76
+grapes,15,121,202,3.946620475,64,"Rock Phosphate, MOP",123.93
+banana,104,79,48,6.363663634,42,"Urea, DAP, Potash",77.0
+pigeonpeas,19,55,24,5.489196237,45,"Urea, Rock Phosphate, Potash",35.93
+watermelon,101,12,49,5.548774694,65,"Urea, DAP, Potash",59.4
+apple,19,125,198,6.579335189,47,"Rock Phosphate, MOP",114.0
+pomegranate,18,10,43,5.436874562,25,"Ammonium Sulfate, MOP",31.24
+cotton,123,40,18,5.503482394,74,"Urea, DAP, Potash",66.37
+jute,81,41,41,5.610348916,24,"Urea, DAP, MOP",71.72
+mothbeans,23,41,19,5.532581579,29,"Urea, DAP, MOP",36.52
+coconut,15,14,32,4.976241246,49,"Ammonium Sulfate, Potash",22.37
+watermelon,96,10,54,5.654976676,68,"Urea, DAP, Potash",58.67
+coconut,19,11,33,5.181769112,45,"Ammonium Sulfate, Potash",23.1
+grapes,21,127,201,3.824991905,57,"Rock Phosphate, MOP",127.97
+pigeonpeas,23,56,18,5.506852757,47,"Urea, Rock Phosphate, Potash",35.57
+apple,18,127,201,6.310335589,54,"Rock Phosphate, MOP",115.33
+pomegranate,16,11,43,5.362277039,31,"Ammonium Sulfate, MOP",30.8
+coffee,100,24,31,5.670115278,17,"Urea, DAP, Potash",68.2
+orange,15,5,9,4.034261734,58,"Ammonium Sulfate, Rock Phosphate",10.63
+banana,100,74,51,6.468099841,41,"Urea, DAP, Potash",75.0
+mothbeans,24,36,20,5.464121489,25,"Urea, DAP, MOP",35.2
+maize,83,36,24,5.403357059,50,"Urea, DAP, Single Super Phosphate",52.43
+mungbean,18,44,20,5.577151371,84,"Urea, DAP, MOP",30.07
+wheat,38,2,0,6.089754542,50,Urea,13.33
+grapes,22,120,197,3.938687504,58,"Rock Phosphate, MOP",124.3
+orange,15,5,7,3.807058064,59,"Ammonium Sulfate, Rock Phosphate",9.9
+lentil,22,61,21,5.451582364,93,"Urea, Rock Phosphate, MOP",38.13
+pigeonpeas,21,59,15,5.654736361,46,"Urea, Rock Phosphate, Potash",34.83
+grapes,16,127,196,3.857138363,64,"Rock Phosphate, MOP",124.3
+orange,21,6,13,3.914738658,55,"Ammonium Sulfate, Rock Phosphate",14.67
+wheat,40,0,4,5.821897993,46,Urea,16.13
+banana,101,70,45,6.339474091,44,"Urea, DAP, Potash",72.0
+coffee,103,17,33,5.623770995,24,"Urea, DAP, Potash",67.32
+coffee,100,19,28,5.534241667,16,"Urea, DAP, Potash",64.68
+muskmelon,102,11,54,5.39046064,33,"Urea, DAP, Potash",73.48
+banana,104,74,53,6.303911752,44,"Urea, DAP, Potash",77.0
+cotton,124,42,24,5.620615784,66,"Urea, DAP, Potash",69.67
+muskmelon,102,10,49,5.640204661,28,"Urea, DAP, Potash",70.84
+papaya,54,50,54,6.03719308,18,"Urea, DAP, Potash",63.2
+pomegranate,15,6,41,5.637021801,25,"Ammonium Sulfate, MOP",27.28
+cotton,123,43,16,5.489030341,69,"Urea, DAP, Potash",66.73
+mungbean,15,39,21,5.57601033,82,"Urea, DAP, MOP",27.5
+banana,98,70,50,6.59600712,36,"Urea, DAP, Potash",87.2
+mothbeans,16,39,18,5.406408551,29,"Urea, DAP, MOP",32.12
+grapes,15,129,204,3.984046873,64,"Rock Phosphate, MOP",127.6
+mothbeans,18,35,15,5.528437265,31,"Urea, DAP, MOP",29.92
+jute,76,40,41,5.655899596,22,"Urea, DAP, MOP",69.08
+blackgram,41,64,21,5.162985271,62,"Urea, Rock Phosphate, Potash",46.2
+lentil,21,63,24,5.678310599,85,"Urea, Rock Phosphate, MOP",39.6
+watermelon,100,8,53,5.532387435,66,"Urea, DAP, Potash",59.03
+rice,78,44,35,5.692579038,28,"Urea, DAP, Muriate of Potash (MOP)",69.08
+mango,20,16,27,4.947607093,19,"Ammonium Sulfate, Potash",27.72
+papaya,49,53,45,6.175081846,23,"Urea, DAP, Potash",58.8
+papaya,50,51,54,6.101472206,16,"Urea, DAP, Potash",62.0
+muskmelon,95,8,52,5.317552435,29,"Urea, DAP, Potash",68.2
+papaya,51,54,54,6.15000348,19,"Urea, DAP, Potash",63.6
+chickpea,35,63,75,5.36428534,64,"Ammonium Sulfate, DAP, MOP",63.43
+mungbean,19,44,15,5.42131241,81,"Urea, DAP, MOP",28.6
+pomegranate,24,11,38,5.40740003,31,"Ammonium Sulfate, MOP",32.12
+blackgram,43,58,17,5.193971643,64,"Urea, Rock Phosphate, Potash",43.27
+mungbean,22,37,18,5.400394883,81,"Urea, DAP, MOP",28.23
+pomegranate,15,11,40,5.46180781,29,"Ammonium Sulfate, MOP",29.04
+pomegranate,24,12,39,5.375206287,29,"Ammonium Sulfate, MOP",33.0
+mothbeans,17,39,17,5.391013551,25,"Urea, DAP, MOP",32.12
+blackgram,40,62,23,4.837596372,61,"Urea, Rock Phosphate, Potash",45.83
+blackgram,43,55,18,5.066966212,64,"Urea, Rock Phosphate, Potash",42.53
+mothbeans,16,42,19,5.329029919,29,"Urea, DAP, MOP",33.88
+chickpea,38,59,81,5.68464081,64,"Ammonium Sulfate, DAP, MOP",65.27
+kidneybeans,16,62,23,5.556193317,46,"Urea, Rock Phosphate, Potash",37.03
+mothbeans,20,35,23,5.401034403,28,"Urea, DAP, MOP",34.32
+maize,82,42,23,5.628256624,50,"Urea, DAP, Single Super Phosphate",53.9
+wheat,36,3,2,5.888832875,45,Urea,15.03
+kidneybeans,15,56,23,5.639056132,45,"Urea, Rock Phosphate, Potash",34.47
+maize,83,40,16,5.449150604,53,"Urea, DAP, Single Super Phosphate",50.97
+rice,84,43,43,5.475319443,29,"Urea, DAP, Muriate of Potash (MOP)",74.8
+muskmelon,100,13,47,5.55712082,26,"Urea, DAP, Potash",70.4
+mango,21,18,27,5.022210027,12,"Ammonium Sulfate, Potash",29.04
+maize,84,38,15,5.410903367,45,"Urea, DAP, Single Super Phosphate",50.23
+pomegranate,21,10,44,5.356856341,27,"Ammonium Sulfate, MOP",33.0
+lentil,19,59,24,5.383460765,92,"Urea, Rock Phosphate, MOP",37.4
+cotton,120,35,24,5.5993501,70,"Urea, DAP, Potash",65.63
+orange,20,10,5,3.91941917,59,"Ammonium Sulfate, Rock Phosphate",12.83
+cotton,119,35,17,5.405442176,65,"Urea, DAP, Potash",62.7
+grapes,16,122,204,3.889236007,55,"Rock Phosphate, MOP",125.4
+kidneybeans,23,58,23,5.462086049,43,"Urea, Rock Phosphate, Potash",38.13
+apple,18,128,204,6.579196189,52,"Rock Phosphate, MOP",116.67
+mango,16,18,33,4.803380598,17,"Ammonium Sulfate, Potash",29.48
+cotton,122,37,20,5.592749301,66,"Urea, DAP, Potash",65.63
+pomegranate,17,7,41,5.603598305,25,"Ammonium Sulfate, MOP",28.6
+papaya,50,48,51,6.176158814,18,"Urea, DAP, Potash",59.6
+banana,102,76,54,6.559128922,43,"Urea, DAP, Potash",77.33
+rice,76,41,44,5.605323046,28,"Urea, DAP, Muriate of Potash (MOP)",70.84
+grapes,22,123,204,3.929228427,57,"Rock Phosphate, MOP",127.97
+wheat,36,4,2,6.027388881,52,Urea,14.0
+mango,24,21,27,4.934584465,19,"Ammonium Sulfate, Potash",31.68
+apple,24,126,195,6.48277554,54,"Rock Phosphate, MOP",115.0
+maize,80,42,18,5.557109465,50,"Urea, DAP, Single Super Phosphate",51.33
+orange,21,13,10,4.022063892,64,"Ammonium Sulfate, Rock Phosphate",16.13
+watermelon,104,12,47,5.333215503,65,"Urea, DAP, Potash",59.77
+grapes,24,120,200,3.932406504,56,"Rock Phosphate, MOP",126.13
+blackgram,39,58,20,4.825414289,58,"Urea, Rock Phosphate, Potash",42.9
+muskmelon,102,7,48,5.499819481,26,"Urea, DAP, Potash",69.08
+mango,22,17,31,5.063740121,18,"Ammonium Sulfate, Potash",30.8
+kidneybeans,24,60,15,5.578078584,41,"Urea, Rock Phosphate, Potash",36.3
+kidneybeans,21,64,18,5.692394521,44,"Urea, Rock Phosphate, Potash",37.77
+coconut,20,10,28,4.881197424,44,"Ammonium Sulfate, Potash",21.27
+rice,81,36,44,5.549096511,25,"Urea, DAP, Muriate of Potash (MOP)",70.84
+mothbeans,24,43,18,5.596880404,27,"Urea, DAP, MOP",37.4
+papaya,54,47,52,6.079309037,16,"Urea, DAP, Potash",61.2
+orange,24,6,7,3.958297932,61,"Ammonium Sulfate, Rock Phosphate",13.57
+papaya,54,46,48,6.176386315,15,"Urea, DAP, Potash",59.2
+muskmelon,95,10,47,5.412771821,29,"Urea, DAP, Potash",66.88
+grapes,16,122,196,3.955253232,64,"Rock Phosphate, MOP",122.47
+muskmelon,98,7,53,5.325814354,28,"Urea, DAP, Potash",69.52
+coffee,97,21,34,5.319183093,22,"Urea, DAP, Potash",66.88
+mango,22,17,28,4.80885378,13,"Ammonium Sulfate, Potash",29.48
+banana,104,72,52,6.682725868,42,"Urea, DAP, Potash",76.0
+lentil,19,61,20,5.4960017,93,"Urea, Rock Phosphate, MOP",36.67
+jute,82,39,35,5.368057096,23,"Urea, DAP, MOP",68.64
+kidneybeans,23,59,16,5.405402861,44,"Urea, Rock Phosphate, Potash",35.93
+maize,79,43,24,5.429558221,48,"Urea, DAP, Single Super Phosphate",53.53
+wheat,36,0,4,6.071820735,54,Urea,13.33
+rice,79,40,39,5.369128021,29,"Urea, DAP, Muriate of Potash (MOP)",69.52
+blackgram,38,62,19,4.826516075,55,"Urea, Rock Phosphate, Potash",43.63
+watermelon,97,12,50,5.683331075,69,"Urea, DAP, Potash",58.3
+pigeonpeas,24,62,19,5.518650258,48,"Urea, Rock Phosphate, Potash",38.5
+grapes,16,122,197,3.964837444,59,"Rock Phosphate, MOP",122.83
+lentil,17,59,21,5.303696635,85,"Urea, Rock Phosphate, MOP",35.57
+wheat,44,4,0,5.929191493,53,Urea,17.6
+mothbeans,19,43,18,5.425300296,29,"Urea, DAP, MOP",35.2
+pigeonpeas,22,59,17,5.467503596,41,"Urea, Rock Phosphate, Potash",35.93
+apple,23,125,201,6.307844213,49,"Rock Phosphate, MOP",116.33
+kidneybeans,24,58,18,5.42354436,42,"Urea, Rock Phosphate, Potash",36.67
+grapes,17,127,200,3.992314467,56,"Rock Phosphate, MOP",126.13
+muskmelon,102,10,50,5.350872981,32,"Urea, DAP, Potash",71.28
+papaya,45,53,48,5.919579091,18,"Urea, DAP, Potash",64.24
+banana,103,76,54,6.634225919,40,"Urea, DAP, Potash",93.2
+orange,24,12,10,3.824364891,63,"Ammonium Sulfate, Rock Phosphate",16.87
+pomegranate,22,13,40,5.694565607,26,"Ammonium Sulfate, MOP",33.0
+coconut,20,13,31,4.942759955,43,"Ammonium Sulfate, Potash",23.47
+banana,104,73,45,6.409817834,41,"Urea, DAP, Potash",74.0
+watermelon,100,10,51,5.34657821,65,"Urea, DAP, Potash",59.03
+jute,77,36,39,5.535077788,15,"Urea, DAP, MOP",66.88
+watermelon,99,11,45,5.414664233,65,"Urea, DAP, Potash",56.83
+pigeonpeas,23,56,18,5.623186276,46,"Urea, Rock Phosphate, Potash",35.57
+jute,80,44,39,5.528528006,18,"Urea, DAP, MOP",71.72
+orange,16,10,13,4.143064159,55,"Ammonium Sulfate, Rock Phosphate",14.3
+coffee,100,19,27,5.544863464,16,"Urea, DAP, Potash",64.24
+grapes,23,126,196,4.011108884,61,"Rock Phosphate, MOP",126.5
+pomegranate,15,5,38,5.598452391,31,"Ammonium Sulfate, MOP",25.52
+coconut,23,9,26,5.017672046,40,"Ammonium Sulfate, Potash",25.52
+mungbean,22,35,17,5.628184516,75,"Urea, DAP, MOP",27.13
+papaya,53,53,50,5.872477784,22,"Urea, DAP, Potash",68.64
+apple,15,129,201,6.350422173,52,"Rock Phosphate, MOP",115.0
+blackgram,40,62,17,5.164317972,62,"Urea, Rock Phosphate, Potash",43.63
+muskmelon,97,14,52,5.446869526,30,"Urea, DAP, Potash",71.72
+coffee,97,24,28,5.442774919,23,"Urea, DAP, Potash",65.56
+watermelon,98,12,45,5.309486544,70,"Urea, DAP, Potash",56.83
+chickpea,40,63,79,5.650286815,60,"Ammonium Sulfate, DAP, MOP",66.73
+pomegranate,15,13,44,5.522105329,29,"Ammonium Sulfate, MOP",31.68
+jute,83,39,39,5.588838979,19,"Urea, DAP, MOP",70.84
+mango,15,24,29,5.115247576,15,"Ammonium Sulfate, Potash",29.92
+rice,76,38,35,5.371304713,33,"Urea, DAP, Muriate of Potash (MOP)",65.56
+banana,103,75,45,6.351614715,41,"Urea, DAP, Potash",74.33
+maize,84,41,17,5.608052517,50,"Urea, DAP, Single Super Phosphate",52.07
+wheat,44,0,0,5.905227886,50,Urea,16.13
+blackgram,42,64,23,5.130077174,55,"Urea, Rock Phosphate, Potash",47.3
+banana,99,76,47,6.331135661,36,"Urea, DAP, Potash",88.8
+coffee,99,15,31,5.383910166,21,"Urea, DAP, Potash",63.8
+lentil,15,55,18,5.487773945,86,"Urea, Rock Phosphate, MOP",32.27
+watermelon,95,7,53,5.56828123,73,"Urea, DAP, Potash",56.83
+pomegranate,16,9,35,5.342767946,34,"Ammonium Sulfate, MOP",26.4
+apple,16,120,200,6.4348951,46,"Rock Phosphate, MOP",112.0
+rice,80,36,35,5.583144841,31,"Urea, DAP, Muriate of Potash (MOP)",66.44
+wheat,45,2,0,5.98701754,49,Urea,17.23
+jute,80,35,38,5.454188174,17,"Urea, DAP, MOP",67.32
+mungbean,16,39,21,5.612958323,75,"Urea, DAP, MOP",27.87
+kidneybeans,17,63,22,5.422177691,49,"Urea, Rock Phosphate, Potash",37.4
+coffee,101,15,28,5.425210142,18,"Urea, DAP, Potash",63.36

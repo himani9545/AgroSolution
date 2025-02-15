@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <!-- Left Section -->
+        <div class="section section-1">
+            <div class="app-name-container">
+                <span class="web-app-name">
+                    <span class="green-text">Agro</span><span class="white-text">Solution</span>
+                </span>
+            </div>
+            <p id="introText">"Kisan Ki Duniya Mein Smart Solutions Ka Bharosa, Behtar Fasal Aur Tarakki Ke Saath! 🌿🚜"</p>
+            <div class="buttons">
+                <a href="/try" class="button-link"><button id="tryForFreeBtn">Try for Free</button></a>
+                <button id="loginBtn">Login</button>
+                <button id="signupBtn">Sign Up</button>
+                <a href="/crops" class="button-link">
+                    <button id="knowAboutYourCropsBtn">Know About Your Crops</button>
+                </a>
+                
+                <a href="/about" class="button-link">
+                    <button id="aboutUsBtn">About Us</button>
+                </a>
+                
+            </div>
+            <!-- Move Language Selection Here -->
+    <div id="languageSelection" class="language-selection">
+        <select id="languageSelect" onchange="changeLanguage()">
+            <option value="en">English</option>
+            <option value="hi">हिंदी</option>
+        </select>
+    </div>
+        </div>
+        <!-- Right Section -->
+        <div class="section section-2">
+            <div id="image-slider" class="cover-image">
+                <img src="{{ url_for('static', filename='images/image7.png') }}" alt="Farmer" class="slider-image active">
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal for Sign Up -->
+    <div id="signupModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" id="closeSignupModal">&times;</span>
+            <h2>Sign Up</h2>
+            <form id="signupForm" method="POST" action="http://127.0.0.1:5000/signup">
+                <input type="name" id="signupUsername" name="name" placeholder="Enter your username" required autocomplete="username"><br>
+                <input type="email" id="signupEmail" name="email" placeholder="Enter your email" required autocomplete="email"><br>
+                <input type="password" id="signupPassword" name="password" placeholder="Enter your password" required autocomplete="new-password"><br>
+                <input type="password" id="signupConfirmPassword" name="confirmPassword" placeholder="confirm your password" required>
+                <button type="submit" class="btn">Sign Up</button>
+            </form>
+            
+            <p class="loginline"><br>Already a customer? <a href="#" id="signupLinkToLoginModal">Login</a></p>
+        </div>
+    </div>
+
+    <!-- Modal for Log In -->
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" id="closeLoginModal">&times;</span>
+            <h2>Log In</h2>
+            <form>
+                <input type="email" id="email" placeholder="Enter your email" required><br>
+                <input type="password" id="password" placeholder="Enter your password" required><br>
+                <button type="submit" class="btn">Log In</button>
+            </form>
+            <p class="loginline"><br>New customer? <a href="#" id="loginLinkToSignupModal">Sign Up</a></p>
+        </div>
+    </div>
+
+    <!-- Success Message Modal -->
+    <div id="successModal" class="modal" style="display:none;">
+        <div class="modal-content">
+            <span class="close-btn" id="closeSuccessModal">&times;</span>
+            <p class="lp" style="color: black; font-size: 18px;">Successfully Registered!</p>
+            <p class="lp" style="color: black; font-size: 16px;">Login using your email and password.</p>
+        </div>
+    </div>
+
+    <!-- Link to your JavaScript file -->
+    <script src="{{ url_for('static', filename='js/signup.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/login.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/image.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/language.js') }}"></script>
+</body>
+</html>

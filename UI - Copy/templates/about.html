@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - AgroSolution</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='about.css') }}">
+    <script src="language.js"></script> <!-- Include language.js -->
+</head>
+<body>
+
+    <!-- AgroSolution Title (Styled Like Homepage) -->
+    <div class="header">
+        <h1 class="logo animate-logo">
+            <span class="green-text">Agro</span><span class="white-text">Solution</span>
+        </h1>
+    </div>
+
+
+    <!-- About Us Section -->
+    <div class="about-container" id="aboutContainerEn">
+        <h1 class="about-title fade-in" id="aboutTitleEn">ABOUT US</h1>
+
+        <div class="about-section fade-in">
+            <h2 id="agroSolutionCapabilityTitleEn">AgroSolution Capability</h2>
+            <p id="aboutText1En">AgroSolution is an innovative agricultural technology platform dedicated to empowering farmers with data-driven solutions. Our mission is to enhance modern farming by providing accurate crop recommendations, smart fertilizer guidance, and advanced pest control strategies.</p>
+            <p id="aboutText2En">We combine cutting-edge technology with deep agricultural expertise to create solutions that help farmers make informed decisions, ensuring better yields and sustainable farming practices.</p>
+            <p id="aboutText3En">With a vision to revolutionize agriculture, we continue to develop smarter tools and provide unparalleled support to our users.</p>
+        </div>
+
+        <div class="about-highlights">
+            <div class="highlight hover-effect" id="highlight1En">✅ Precision Farming Solutions</div>
+            <div class="highlight hover-effect" id="highlight2En">✅ 24/7 Farmer Support</div>
+            <div class="highlight hover-effect" id="highlight3En">✅ Sustainable & Eco-Friendly Practices</div>
+            <div class="highlight hover-effect" id="highlight4En">✅ AI-Powered Recommendations</div>
+        </div>
+    </div>
+
+    <!-- Hindi Content (hidden initially) -->
+    <div class="about-container" id="aboutContainerHi" style="display: none;">
+        <h1 class="about-title fade-in" id="aboutTitleHi">हमारे बारे में</h1>
+
+        <div class="about-section fade-in">
+            <h2 id="agroSolutionCapabilityTitleHi">AgroSolution की क्षमता</h2>
+            <p id="aboutText1Hi">AgroSolution एक अभिनव कृषि प्रौद्योगिकी प्लेटफ़ॉर्म है जो किसानों को डेटा-आधारित समाधानों के साथ सशक्त बनाने के लिए समर्पित है। हमारा मिशन आधुनिक खेती को बढ़ावा देना है, सही फसल सिफारिशों, स्मार्ट उर्वरक मार्गदर्शन और उन्नत कीट नियंत्रण रणनीतियाँ प्रदान करना।</p>
+            <p id="aboutText2Hi">हम अत्याधुनिक तकनीक को गहरे कृषि ज्ञान के साथ मिलाकर ऐसे समाधान तैयार करते हैं जो किसानों को सूचित निर्णय लेने में मदद करते हैं, बेहतर पैदावार और सतत कृषि प्रथाओं को सुनिश्चित करते हैं।</p>
+            <p id="aboutText3Hi">कृषि में क्रांति लाने के दृष्टिकोण के साथ, हम लगातार स्मार्ट टूल विकसित करते हैं और हमारे उपयोगकर्ताओं को बेजोड़ समर्थन प्रदान करते हैं।</p>
+        </div>
+
+        <div class="about-highlights">
+            <div class="highlight hover-effect" id="highlight1Hi">✅ सटीक कृषि समाधान</div>
+            <div class="highlight hover-effect" id="highlight2Hi">✅ 24/7 किसान समर्थन</div>
+            <div class="highlight hover-effect" id="highlight3Hi">✅ सतत और पर्यावरण-मित्र प्रथाएँ</div>
+            <div class="highlight hover-effect" id="highlight4Hi">✅ एआई-समर्थित सिफारिशें</div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+<script>
+// Check if a language preference is saved
+document.addEventListener("DOMContentLoaded", function() {
+    const savedLanguage = localStorage.getItem('language') || 'en';
+    setLanguage(savedLanguage);
+
+    const languageSelect = document.getElementById('languageSelect');
+    if (languageSelect) {
+        languageSelect.value = savedLanguage;
+    }
+});
+
+// Function to change the language
+function changeLanguage() {
+    const selectedLang = document.getElementById('languageSelect').value;
+    localStorage.setItem('language', selectedLang);
+    setLanguage(selectedLang);
+}
+
+// Function to apply the selected language to the page
+function setLanguage(lang) {
+    if (lang === 'hi') {
+        document.getElementById('aboutContainerEn').style.display = 'none';
+        document.getElementById('aboutContainerHi').style.display = 'block';
+    } else {
+        document.getElementById('aboutContainerHi').style.display = 'none';
+        document.getElementById('aboutContainerEn').style.display = 'block';
+    }
+}
+</script>

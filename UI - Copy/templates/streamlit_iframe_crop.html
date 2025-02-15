@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streamlit Inside Flask</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='streamlit.css') }}">
+</head>
+<body style="background: url('./static/images/image114.jpg') no-repeat center center; background-size: cover; margin: 0; font-family: Arial, sans-serif;">
+    <style>
+        body {
+            background-color: black;
+        }
+    </style>
+    <!-- Header -->
+    <div class = "header1">
+        <div class="app-name-container">
+           <span class="web-app-name">
+               <span class="green-text">Agro</span><span class="white-text">Solution</span>
+           </span>
+        </div>
+     </div>
+     
+     <div class="container" align:top>
+        <!-- Left Section: Image -->
+        <div class="left-section">
+           
+        </div>
+
+        <!-- Right Section: Iframe with Crop Recommendation System -->
+        <div class="right-section">
+            
+            <div class="content">
+                <!-- Embed the Streamlit app inside an iframe -->
+               
+               <iframe src="http://localhost:8501/" onload="this.style.display='block';"></iframe>
+               <a href="{{ url_for('try_for_free') }}">Back</a>
+
+            </div>
+        </div>
+    </div>
+    <script>
+        let lastScrollTop = 0;
+        window.addEventListener("scroll", function () {
+            let header = document.querySelector(".header2");
+            let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    
+            if (scrollTop > lastScrollTop) {
+                // Scroll down → Hide header
+                header.style.opacity = "0";
+                header.style.pointerEvents = "none";
+            } else {
+                // Scroll up → Show header
+                header.style.opacity = "1";
+                header.style.pointerEvents = "auto";
+            }
+    
+            lastScrollTop = scrollTop;
+        });
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streamlit Inside Flask</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='streamlit3.css') }}">
+</head>
+<body style="background: url('./static/images/crop_back.jpg') no-repeat center center; background-size: cover; margin: 0; font-family: Arial, sans-serif;">
+    <!-- Header -->
+    <div class = "header1">
+        <div class="app-name-container">
+           <span class="web-app-name">
+               <span class="green-text">Agro</span><span class="white-text">Solution</span>
+           </span>
+        </div>
+     </div>
+    <!-- Main Content -->
+    <div class="content">
+        <!-- Embed the Streamlit app inside an iframe -->
+        <iframe src="http://localhost:8503/"></iframe>
+        <a href="{{ url_for('try_for_free') }}">Back</a>
+    </div>
+</body>
+</html>

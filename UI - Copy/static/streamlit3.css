@@ -1,0 +1,109 @@
+/* General styling for the page */
+body {
+    font-family: Arial, sans-serif;
+}
+.header1 {
+    background-color: black; /* Black background */
+    color: white; /* White text color */
+    padding: 30px 0;
+    text-align: center;
+    position: fixed; /* Fix the header at the top */
+    top: 0;
+    width: 100%; /* Full width */
+    z-index: 1000; /* Ensure the header stays on top */
+}
+.header2 {
+    color: black;
+    padding: 30px;
+    position: fixed;
+    top: 23%;
+    left: 26.5%;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    z-index: 1000;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    background-color: black;
+}
+
+a:hover {
+    background-color: #fff;
+    color: #000;
+}
+/* Styling for the app name */
+.app-name-container {
+    position: fixed;
+    top: 0px; /* Adjust position from top */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000; /* To make sure it's always on top */
+    width: 100%;
+    transition: font-size 0.3s ease-in-out; /* Smooth transition when scrolling */
+
+}
+
+.web-app-name {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+}
+
+.green-text {
+    color: #4CAF50; /* Green color for the "Web" part */
+}
+
+.white-text {
+    margin-left: 0px;
+    color: #fff; /* White color for the "App" part */
+}
+/* Header section */
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+/* Content section to center and add spacing */
+.content {
+    max-width: 700px;
+    margin: 40px auto;
+    margin-top: 50px;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    iframe {
+        height: 400px; /* Smaller iframe for smaller screens */
+    }
+
+    .content {
+        margin: 20px; /* Less margin on small screens */
+    }
+}
+
+/* Custom CSS for Streamlit form elements inside the iframe */
+iframe {
+    display: block;
+    margin-top: 100px; /* Center the iframe on the page */
+}
+
+/* Adjusting Streamlit content to align text fields to the right */
+iframe {
+    width: 100%;
+    height: 430px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 150px;
+}
+
+/* To target Streamlit elements inside the iframe, you will need to inject CSS in the Streamlit app. */

@@ -1,0 +1,217 @@
+/* Basic reset and layout styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Permanent header style */
+.header {
+  background-color: black; /* Black background */
+  color: white; /* White text color */
+  padding: 47px 0;
+  text-align: center;
+  top: 0;
+  width: 100%; /* Full width */
+  z-index: 1000; /* Ensure the header stays on top */
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+body.scrolled .app-name-container {
+  font-size: 2em; /* Reduced size after scroll */
+}
+
+/* Left Section (First Section) */
+.section-1 {
+  background-color: black;
+  width: 60%;
+  height: 100vh;
+  float: left;
+  padding-left:30px;
+  padding-top: 150px;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-1 p {
+  font-size: 20px;
+  color: white;
+  margin: 20px 0;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: white;
+}
+
+/* Right Section (Second Section with images) */
+.section-2 {
+  background-color: black;
+  width: 40%;
+  height: 100vh;
+  float: right;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.cover-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the image scales properly */
+  display: flex; /* Ensures proper alignment if necessary */
+  justify-content: center; /* Centers the image horizontally */
+  align-items: center; /* Centers the image vertically */
+}
+
+.slider-image {
+  width: 100%; /* Adjusts the image to fit the container */
+  height: auto; /* Maintains the aspect ratio */
+}
+
+/* Styling for the app name */
+.app-name-container {
+  transform: translateX(-50%);
+  width: 100%;
+  margin-left: 400px;
+  margin-top: 0px;
+  transition: font-size 0.3s ease-in-out; /* Smooth transition when scrolling */
+}
+
+.web-app-name {
+  font-size: 100px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
+
+.green-text {
+  color: #4CAF50; /* Green color for the "Agro" part */
+}
+
+.white-text {
+  color: #fff; /* White color for the "Solution" part */
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+/* Modal styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  overflow: auto; /* Enable scroll if needed */
+}
+
+.modal-content {
+  background-color: white;
+  margin-top: 15%;
+  margin-left: 35%;
+  padding: 20px;
+  padding-bottom: 20px;
+  border: 1px solid #888;
+  width: 30%;
+  border-radius: 20px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.944);
+}
+
+.loginline {
+  color: black;
+  padding-top: 20px;
+}
+
+.close-btn {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close-btn:hover,
+.close-btn:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Input field styles */
+input[type="name"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.lp {
+  background-color: white;
+  margin: 0;
+}
+
+/* Sign up link */
+#loginLink {
+  color: blue;
+  text-decoration: none;
+}
+
+#loginLink:hover {
+  text-decoration: underline;
+}
+.language-selection {
+  position: absolute;
+  top: 10px;  /* Adjust as needed */
+  right: 20px; /* Move it to the right */
+  z-index: 10;
+}
+
+.language-selection select {
+  padding: 5px;
+  font-size: 14px;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+#languageSelect {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
