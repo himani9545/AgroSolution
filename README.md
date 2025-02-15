@@ -10,14 +10,17 @@ AgroSolution is an innovative agricultural technology platform dedicated to empo
 
 # Crop Recommendation Model 🌾
 Algorithm Used: Machine Learning (e.g., Decision Trees, Random Forest, SVC (Linear))
+
 ![image](https://github.com/user-attachments/assets/34d6d62c-25f9-467a-bf4f-ea2f07d85996)
 
 # Fertilizer Recommendation Model 🌱
 Algorithm Used: Machine Learning (e.g., Decision Trees, Random Forest, SVM)
+
 ![image](https://github.com/user-attachments/assets/2d1dc543-78c1-4e76-88bd-a7dc5860dd1a)
 
 # Pesticide Recommendation Model 🐛
 Algorithm Used: Machine Learning (XGBoost)
+
 ![image](https://github.com/user-attachments/assets/8bb1ee50-466e-4651-8b29-8a62811a4d92)
 
 ![image](https://github.com/user-attachments/assets/9e527e0f-0dff-4e2f-988e-230deeca5638)
